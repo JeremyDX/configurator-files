@@ -2,7 +2,7 @@
    {
       "name":"Classic Series",
       "slug":"classic-series",
-      "defaultColor":"red",
+      "defaultColor":"combat-green",
       "defaultTrimColor":"bright-silver",
       "defaultWorkTop":"rubber-mat",
       "order":0,
@@ -16,13 +16,13 @@
             "slug":"bright-silver",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -41,13 +41,13 @@
             "slug":"bright-titanium",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -62,17 +62,17 @@
             "id":"5a21390934f1f9e153acc262"
          },
          {
-            "name":"Bright Red",
-            "slug":"bright-red",
+            "name":"Bright combat-green",
+            "slug":"bright-combat-green",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -90,13 +90,13 @@
             "slug":"bright-sky-blue",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -144,13 +144,13 @@
             "slug":"bright-black",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -181,7 +181,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -201,7 +201,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -209,8 +209,8 @@
             "id":"5a21390534f1f9e153acc1be"
          },
          {
-            "name":"Red",
-            "slug":"red",
+            "name":"combat-green",
+            "slug":"combat-green",
             "isAvailableIn":[
                "masters-series",
                "classic-series",
@@ -221,7 +221,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -241,7 +241,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -261,7 +261,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -282,7 +282,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -303,7 +303,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -324,7 +324,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -393,7 +393,7 @@
    {
       "name":"TUV",
       "slug":"tuv-series2",
-      "defaultColor":"red",
+      "defaultColor":"combat-green",
       "defaultTrimColor":"bright-silver",
       "defaultWorkTop":"",
       "order":1,
@@ -412,7 +412,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -431,7 +431,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -451,7 +451,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -459,8 +459,8 @@
             "id":"5a21390534f1f9e153acc1be"
          },
          {
-            "name":"Candy Apple Red",
-            "slug":"candy-apple-red",
+            "name":"Candy Apple combat-green",
+            "slug":"candy-apple-combat-green",
             "isAvailableIn":[
                "masters-series",
                "tuv-series2",
@@ -470,7 +470,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -478,8 +478,8 @@
             "id":"5a21390534f1f9e153acc1bf"
          },
          {
-            "name":"Red",
-            "slug":"red",
+            "name":"combat-green",
+            "slug":"combat-green",
             "isAvailableIn":[
                "masters-series",
                "classic-series",
@@ -490,7 +490,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -510,7 +510,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -530,7 +530,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -551,7 +551,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -572,7 +572,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -593,7 +593,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -613,7 +613,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -633,7 +633,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -704,13 +704,13 @@
             "slug":"bright-silver",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -729,13 +729,13 @@
             "slug":"bright-titanium",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -750,17 +750,17 @@
             "id":"5a21390934f1f9e153acc262"
          },
          {
-            "name":"Bright Red",
-            "slug":"bright-red",
+            "name":"Bright combat-green",
+            "slug":"bright-combat-green",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -778,13 +778,13 @@
             "slug":"bright-sky-blue",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -832,13 +832,13 @@
             "slug":"bright-black",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -862,7 +862,7 @@
    {
       "name":"Masters Series",
       "slug":"masters-series",
-      "defaultColor":"red",
+      "defaultColor":"combat-green",
       "defaultTrimColor":"bright-silver",
       "defaultWorkTop":"rubber-mat",
       "order":2,
@@ -881,7 +881,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -900,7 +900,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -920,7 +920,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -928,8 +928,8 @@
             "id":"5a21390534f1f9e153acc1be"
          },
          {
-            "name":"Candy Apple Red",
-            "slug":"candy-apple-red",
+            "name":"Candy Apple combat-green",
+            "slug":"candy-apple-combat-green",
             "isAvailableIn":[
                "masters-series",
                "tuv-series2",
@@ -939,7 +939,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -947,8 +947,8 @@
             "id":"5a21390534f1f9e153acc1bf"
          },
          {
-            "name":"Red",
-            "slug":"red",
+            "name":"combat-green",
+            "slug":"combat-green",
             "isAvailableIn":[
                "masters-series",
                "classic-series",
@@ -959,7 +959,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -979,7 +979,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -999,7 +999,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -1020,7 +1020,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -1041,7 +1041,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -1062,7 +1062,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -1082,7 +1082,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -1102,7 +1102,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -1176,13 +1176,13 @@
             "slug":"bright-silver",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -1201,13 +1201,13 @@
             "slug":"bright-titanium",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -1222,17 +1222,17 @@
             "id":"5a21390934f1f9e153acc262"
          },
          {
-            "name":"Bright Red",
-            "slug":"bright-red",
+            "name":"Bright combat-green",
+            "slug":"bright-combat-green",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -1250,13 +1250,13 @@
             "slug":"bright-sky-blue",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -1304,13 +1304,13 @@
             "slug":"bright-black",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -1331,7 +1331,7 @@
    {
       "name":"EPIQ Series",
       "slug":"epiq-series",
-      "defaultColor":"red",
+      "defaultColor":"combat-green",
       "defaultTrimColor":"bright-silver",
       "defaultWorkTop":"rubber-mat",
       "order":3,
@@ -1342,13 +1342,13 @@
             "slug":"bright-silver",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -1367,13 +1367,13 @@
             "slug":"bright-titanium",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -1388,17 +1388,17 @@
             "id":"5a21390934f1f9e153acc262"
          },
          {
-            "name":"Bright Red",
-            "slug":"bright-red",
+            "name":"Bright combat-green",
+            "slug":"bright-combat-green",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -1416,13 +1416,13 @@
             "slug":"bright-sky-blue",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -1470,13 +1470,13 @@
             "slug":"bright-black",
             "isCompatibleWith":[
                "arctic-silver",
-               "candy-apple-red",
+               "candy-apple-combat-green",
                "electric-orange",
                "extreme-green",
                "flat-black",
                "gloss-black",
                "midnight-blue",
-               "red",
+               "combat-green",
                "royal-blue",
                "tractor-green",
                "ultra-yellow",
@@ -1553,7 +1553,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -1572,7 +1572,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -1592,7 +1592,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -1600,8 +1600,8 @@
             "id":"5a21390534f1f9e153acc1be"
          },
          {
-            "name":"Candy Apple Red",
-            "slug":"candy-apple-red",
+            "name":"Candy Apple combat-green",
+            "slug":"candy-apple-combat-green",
             "isAvailableIn":[
                "masters-series",
                "tuv-series2",
@@ -1611,7 +1611,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -1619,8 +1619,8 @@
             "id":"5a21390534f1f9e153acc1bf"
          },
          {
-            "name":"Red",
-            "slug":"red",
+            "name":"combat-green",
+            "slug":"combat-green",
             "isAvailableIn":[
                "masters-series",
                "classic-series",
@@ -1631,7 +1631,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -1651,7 +1651,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColorName":"Bright Silver",
@@ -1671,7 +1671,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -1692,7 +1692,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -1713,7 +1713,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -1734,7 +1734,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -1754,7 +1754,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
@@ -1774,7 +1774,7 @@
                "bright-silver",
                "bright-black",
                "bright-sky-blue",
-               "bright-red",
+               "bright-combat-green",
                "bright-titanium"
             ],
             "defaultTrimColor":"bright-silver",
