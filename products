@@ -1445,12 +1445,12 @@
                 "sku":"KRL1203B",
                 "description":"TEST203Top Chest Triple",
                 "zone":"top"
-            }
+            },
             {
                 "sku":"KRL1232",
                 "description":"TEST204Top Chest Triple",
                 "zone":"top"
-            },
+            }
         ],
         "workcenters":[
             {
