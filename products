@@ -1539,6 +1539,134 @@
     "id":"5a21390734f1f9e153acc233"
   },
   {
+    "sku":"CustomKRL_ROLL",
+    "description":"D268Roll Cab",
+    "width":0.00,
+    "depth":0.00,
+    "height":0.00,
+    "sqIn":12251,
+    "cuIn":46425,
+    "price":13270,
+    "priceClearCoat":null,
+    "order":1,
+    "category":"roll-cab",
+    "series":"masters-series",
+    "imageDirectory":"1000_72",
+    "hasEckoUnlock":false,
+    "topChests":[
+      {
+        "sku":"KRL1232",
+        "description":"269Top Chest Dual",
+        "zone":"top"
+      },
+      {
+        "sku":"KRL1203B",
+        "description":"270Top Chest Triple",
+        "zone":"top"
+      }
+    ],
+    "workcenters":[
+      {
+        "sku":"KRL1072",
+        "description":"271Workcenter",
+        "zone":"top",
+        "workTop":{
+          "sku":"KRSST7003B",
+          "zone":"workTop"
+        }
+      }
+    ],
+    "overheadCabinets":[
+      {
+        "sku":"KRL7245A",
+        "description":"272Overhead",
+        "zone":"overhead"
+      }
+    ],
+    "endCabinets":[
+      {
+        "sku":"KRL1015B",
+        "description":"273L Bulk End Cabinet",
+        "zone":"left"
+      },
+      {
+        "sku":"KRL1015B",
+        "description":"274R Bulk End Cabinet",
+        "zone":"right"
+      },
+      {
+        "sku":"KRL1098",
+        "description":"275L End Cab Power Drawer",
+        "zone":"left"
+      },
+      {
+        "sku":"KRL1098",
+        "description":"276R End Cab Power Drawer",
+        "zone":"right"
+      },
+      {
+        "sku":"KRL1011A",
+        "description":"277L End Cabinet",
+        "zone":"left"
+      },
+      {
+        "sku":"KRL1011A",
+        "description":"278R End Cabinet",
+        "zone":"right"
+      }
+    ],
+    "lockers":[
+      {
+        "sku":"KRL1018",
+        "description":"279L Docker Locker",
+        "zone":"left"
+      },
+      {
+        "sku":"KRL1018",
+        "description":"280R Docker Locker",
+        "zone":"right"
+      },
+      {
+        "sku":"KRL1012B",
+        "description":"281L Locker",
+        "zone":"left"
+      },
+      {
+        "sku":"KRL1012B",
+        "description":"282R Locker",
+        "zone":"right"
+      }
+    ],
+    "workTops":[
+      {
+        "sku":"KRSST7003B",
+        "description":"283Stainless Steel",
+        "zone":"workTop"
+      },
+      {
+        "sku":"KWSP1023AST",
+        "description":"284Stainless Steel PowerTop",
+        "zone":"workTop"
+      },
+      {
+        "sku":"KRBLT1023",
+        "description":"285Bedliner",
+        "zone":"workTop"
+      },
+      {
+        "sku":"KWSP1023ABL",
+        "description":"286Bedliner PowerTop",
+        "zone":"workTop"
+      },
+      {
+        "sku":"KRWT7003A",
+        "description":"287Wood",
+        "zone":"workTop"
+      }
+    ],
+    "id":"5a21390734f1f9e153acc233"
+  },
+  {
     "sku":"KRL1033D",
     "description":"288Roll Cab",
     "width":72.875,
