@@ -1,1 +1,53 @@
-[{"name":"Classic","slug":"classic","id":"5a21390834f1f9e153acc25a","configurations":[{"name":"Classic Aspirations","urlParams":{"series":"classic-series","sku":"KRA2423","configuration":"eyJjbGVhckNvYXQiOnsibmFtZSI6IiIsInNsdWciOiIifSwiY29sb3IiOnsibmFtZSI6IlJlZCIsInNsdWciOiJyZWQifSwidHJpbUNvbG9yIjp7Im5hbWUiOiJCcmlnaHQgU2lsdmVyIiwic2x1ZyI6ImJyaWdodC1zaWx2ZXIifSwid29ya1RvcHMiOnsid29ya1RvcCI6IjU2MzM3Yjc5NTQ0YTBiNTYyMTUwMzIwZSIsIndvcmtUb3BMZWZ0IjoiIiwid29ya1RvcFJpZ2h0IjoiIn0sInpvbmVzIjp7ImxlZnQiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNzciLCJ0b3BSaWdodCI6IiIsIm92ZXJoZWFkUmlnaHQiOiIiLCJvdmVyaGVhZFJpZ2h0MiI6IiIsImxlZnQyIjoiIiwib3ZlcmhlYWQiOiIiLCJ0b3AiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNjciLCJyaWdodDIiOiIiLCJvdmVyaGVhZExlZnQyIjoiIiwib3ZlcmhlYWRMZWZ0IjoiIiwicmlnaHQiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNmMiLCJ0b3BMZWZ0IjoiIn19"},"slug":"classic","id":"5a21390634f1f9e153acc20d"}]},{"name":"Masters","slug":"masters","id":"5a21390834f1f9e153acc25b","configurations":[{"name":"Masters Aspirations","urlParams":{"series":"masters-series","sku":"KRL1163","configuration":"eyJjbGVhckNvYXQiOnsibmFtZSI6IiIsInNsdWciOiIifSwiY29sb3IiOnsibmFtZSI6IlJlZCIsInNsdWciOiJyZWQifSwidHJpbUNvbG9yIjp7Im5hbWUiOiJCcmlnaHQgU2lsdmVyIiwic2x1ZyI6ImJyaWdodC1zaWx2ZXIifSwid29ya1RvcHMiOnsid29ya1RvcCI6IjU2MzM3Yjc5NTQ0YTBiNTYyMTUwMzIwOSIsIndvcmtUb3BMZWZ0IjoiIiwid29ya1RvcFJpZ2h0IjoiIn0sInpvbmVzIjp7ImxlZnQiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNzYiLCJ0b3BSaWdodCI6IiIsIm92ZXJoZWFkUmlnaHQiOiIiLCJvdmVyaGVhZFJpZ2h0MiI6IiIsImxlZnQyIjoiIiwib3ZlcmhlYWQiOiIiLCJ0b3AiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNjkiLCJyaWdodDIiOiIiLCJvdmVyaGVhZExlZnQyIjoiIiwib3ZlcmhlYWRMZWZ0IjoiIiwicmlnaHQiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNzYiLCJ0b3BMZWZ0IjoiIn19"},"slug":"masters","id":"5a21390634f1f9e153acc20c"}]},{"name":"EPIQ","slug":"epiq","id":"5a21390834f1f9e153acc25c","configurations":[{"name":"EPIQ Aspirations","urlParams":{"series":"epiq-series","sku":"KERN843B","configuration":"eyJjbGVhckNvYXQiOnsibmFtZSI6IiIsInNsdWciOiIifSwiY29sb3IiOnsibmFtZSI6IlJlZCIsInNsdWciOiJyZWQifSwidHJpbUNvbG9yIjp7Im5hbWUiOiJCcmlnaHQgU2lsdmVyIiwic2x1ZyI6ImJyaWdodC1zaWx2ZXIifSwid29ya1RvcHMiOnsid29ya1RvcCI6IjU2MzM3Yjc5NTQ0YTBiNTYyMTUwMzIxMiIsIndvcmtUb3BMZWZ0IjoiIiwid29ya1RvcFJpZ2h0IjoiIn0sInpvbmVzIjp7ImxlZnQiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxN2EiLCJ0b3BSaWdodCI6IiIsIm92ZXJoZWFkUmlnaHQiOiIiLCJvdmVyaGVhZFJpZ2h0MiI6IiIsImxlZnQyIjoiIiwib3ZlcmhlYWQiOiIiLCJ0b3AiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNmEiLCJyaWdodDIiOiIiLCJvdmVyaGVhZExlZnQyIjoiIiwib3ZlcmhlYWRMZWZ0IjoiIiwicmlnaHQiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxOTUiLCJ0b3BMZWZ0IjoiIn19"},"slug":"epiq","id":"5a21390634f1f9e153acc20b"}]}]
+[
+  {
+    "name":"Classic",
+    "slug":"classic",
+    "id":"5a21390834f1f9e153acc25a",
+    "configurations":[
+      {
+        "name":"Classic Aspirations",
+        "urlParams":{
+          "series":"classic-series",
+          "sku":"KRA2423",
+          "configuration":"eyJjbGVhckNvYXQiOnsibmFtZSI6IiIsInNsdWciOiIifSwiY29sb3IiOnsibmFtZSI6IlJlZCIsInNsdWciOiJyZWQifSwidHJpbUNvbG9yIjp7Im5hbWUiOiJCcmlnaHQgU2lsdmVyIiwic2x1ZyI6ImJyaWdodC1zaWx2ZXIifSwid29ya1RvcHMiOnsid29ya1RvcCI6IjU2MzM3Yjc5NTQ0YTBiNTYyMTUwMzIwZSIsIndvcmtUb3BMZWZ0IjoiIiwid29ya1RvcFJpZ2h0IjoiIn0sInpvbmVzIjp7ImxlZnQiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNzciLCJ0b3BSaWdodCI6IiIsIm92ZXJoZWFkUmlnaHQiOiIiLCJvdmVyaGVhZFJpZ2h0MiI6IiIsImxlZnQyIjoiIiwib3ZlcmhlYWQiOiIiLCJ0b3AiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNjciLCJyaWdodDIiOiIiLCJvdmVyaGVhZExlZnQyIjoiIiwib3ZlcmhlYWRMZWZ0IjoiIiwicmlnaHQiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNmMiLCJ0b3BMZWZ0IjoiIn19"
+        },
+        "slug":"classic",
+        "id":"5a21390634f1f9e153acc20d"
+      }
+    ]
+  },
+  {
+    "name":"Masters",
+    "slug":"masters",
+    "id":"5a21390834f1f9e153acc25b",
+    "configurations":[
+      {
+        "name":"Masters Aspirations",
+        "urlParams":{
+          "series":"masters-series",
+          "sku":"KRL1163",
+          "configuration":"eyJjbGVhckNvYXQiOnsibmFtZSI6IiIsInNsdWciOiIifSwiY29sb3IiOnsibmFtZSI6IlJlZCIsInNsdWciOiJyZWQifSwidHJpbUNvbG9yIjp7Im5hbWUiOiJCcmlnaHQgU2lsdmVyIiwic2x1ZyI6ImJyaWdodC1zaWx2ZXIifSwid29ya1RvcHMiOnsid29ya1RvcCI6IjU2MzM3Yjc5NTQ0YTBiNTYyMTUwMzIwOSIsIndvcmtUb3BMZWZ0IjoiIiwid29ya1RvcFJpZ2h0IjoiIn0sInpvbmVzIjp7ImxlZnQiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNzYiLCJ0b3BSaWdodCI6IiIsIm92ZXJoZWFkUmlnaHQiOiIiLCJvdmVyaGVhZFJpZ2h0MiI6IiIsImxlZnQyIjoiIiwib3ZlcmhlYWQiOiIiLCJ0b3AiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNjkiLCJyaWdodDIiOiIiLCJvdmVyaGVhZExlZnQyIjoiIiwib3ZlcmhlYWRMZWZ0IjoiIiwicmlnaHQiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNzYiLCJ0b3BMZWZ0IjoiIn19"
+        },
+        "slug":"masters",
+        "id":"5a21390634f1f9e153acc20c"
+      }
+    ]
+  },
+  {
+    "name":"EPIQ",
+    "slug":"epiq",
+    "id":"5a21390834f1f9e153acc25c",
+    "configurations":[
+      {
+        "name":"EPIQ Aspirations",
+        "urlParams":{
+          "series":"epiq-series",
+          "sku":"KERN843B",
+          "configuration":"eyJjbGVhckNvYXQiOnsibmFtZSI6IiIsInNsdWciOiIifSwiY29sb3IiOnsibmFtZSI6IlJlZCIsInNsdWciOiJyZWQifSwidHJpbUNvbG9yIjp7Im5hbWUiOiJCcmlnaHQgU2lsdmVyIiwic2x1ZyI6ImJyaWdodC1zaWx2ZXIifSwid29ya1RvcHMiOnsid29ya1RvcCI6IjU2MzM3Yjc5NTQ0YTBiNTYyMTUwMzIxMiIsIndvcmtUb3BMZWZ0IjoiIiwid29ya1RvcFJpZ2h0IjoiIn0sInpvbmVzIjp7ImxlZnQiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxN2EiLCJ0b3BSaWdodCI6IiIsIm92ZXJoZWFkUmlnaHQiOiIiLCJvdmVyaGVhZFJpZ2h0MiI6IiIsImxlZnQyIjoiIiwib3ZlcmhlYWQiOiIiLCJ0b3AiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxNmEiLCJyaWdodDIiOiIiLCJvdmVyaGVhZExlZnQyIjoiIiwib3ZlcmhlYWRMZWZ0IjoiIiwicmlnaHQiOiI1NjMzN2I2YzU0NGEwYjU2MjE1MDMxOTUiLCJ0b3BMZWZ0IjoiIn19"
+        },
+        "slug":"epiq",
+        "id":"5a21390634f1f9e153acc20b"
+      }
+    ]
+  }
+]
