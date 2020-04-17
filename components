@@ -1,6 +1,6 @@
 [
    {
-      "sku":"KRL1072",
+      "sku":"1100KRL1072",
       "description":"0Workcenter",
       "width":72.875,
       "depth":27.5,
@@ -13,7 +13,7 @@
       "id":"5a21390534f1f9e153acc1cc"
    },
    {
-      "sku":"KEWN840A",
+      "sku":"1101KEWN840A",
       "description":"1Workcenter",
       "width":84,
       "depth":30,
@@ -26,7 +26,7 @@
       "id":"5a21390534f1f9e153acc1cd"
    },
    {
-      "sku":"KEWN680A",
+      "sku":"1102KEWN680A",
       "description":"2Workcenter",
       "width":68,
       "depth":30,
@@ -39,7 +39,7 @@
       "id":"5a21390534f1f9e153acc1ce"
    },
    {
-      "sku":"KEWE600A",
+      "sku":"1103KEWE600A",
       "description":"3Workcenter (ECKO)",
       "width":60,
       "depth":30,
@@ -52,7 +52,7 @@
       "id":"5a21390534f1f9e153acc1cf"
    },
    {
-      "sku":"KEWE680A",
+      "sku":"1104KEWE680A",
       "description":"4Workcenter (ECKO)",
       "width":68,
       "depth":30,
@@ -65,7 +65,7 @@
       "id":"5a21390534f1f9e153acc1d0"
    },
    {
-      "sku":"KEWE760A",
+      "sku":"1105KEWE760A",
       "description":"5Workcenter (ECKO)",
       "width":76,
       "depth":30,
@@ -78,7 +78,7 @@
       "id":"5a21390534f1f9e153acc1d1"
    },
    {
-      "sku":"KEWE840A",
+      "sku":"1106KEWE840A",
       "description":"6Workcenter (ECKO)",
       "width":84,
       "depth":30,
@@ -91,7 +91,7 @@
       "id":"5a21390534f1f9e153acc1d2"
    },
    {
-      "sku":"KRA2406A",
+      "sku":"1107KRA2406A",
       "description":"7End Cab",
       "width":20.25,
       "depth":24,
@@ -104,7 +104,7 @@
       "id":"5a21390534f1f9e153acc1d3"
    },
    {
-      "sku":"KRL711A",
+      "sku":"1108KRL711A",
       "description":"8End Cab",
       "width":19.75,
       "depth":24,
@@ -117,7 +117,7 @@
       "id":"5a21390534f1f9e153acc1d4"
    },
    {
-      "sku":"KRL7011A",
+      "sku":"1109KRL7011A",
       "description":"9End Cab",
       "width":19.75,
       "depth":29.125,
@@ -130,7 +130,7 @@
       "id":"5a21390534f1f9e153acc1d5"
    },
    {
-      "sku":"KRL7015B",
+      "sku":"1110KRL7015B",
       "description":"10Bulk End Cab",
       "width":19.75,
       "depth":29.125,
@@ -143,7 +143,7 @@
       "id":"5a21390534f1f9e153acc1d6"
    },
    {
-      "sku":"KRL1011A",
+      "sku":"1111KRL1011A",
       "description":"11End Cab",
       "width":19.75,
       "depth":29.125,
@@ -156,7 +156,7 @@
       "id":"5a21390534f1f9e153acc1d7"
    },
    {
-      "sku":"KRL1015B",
+      "sku":"1112KRL1015B",
       "description":"12Bulk End Cab",
       "width":19.75,
       "depth":29.125,
@@ -169,7 +169,7 @@
       "id":"5a21390534f1f9e153acc1d8"
    },
    {
-      "sku":"KEBN301BL",
+      "sku":"1113KEBN301BL",
       "description":"13L Bulk End Cab",
       "width":30,
       "depth":30,
@@ -182,7 +182,7 @@
       "id":"5a21390534f1f9e153acc1d9"
    },
    {
-      "sku":"KEBN301BR",
+      "sku":"1114KEBN301BR",
       "description":"14R Bulk End Cab",
       "width":30,
       "depth":30,
@@ -195,7 +195,7 @@
       "id":"5a21390534f1f9e153acc1da"
    },
    {
-      "sku":"KRA2403",
+      "sku":"1115KRA2403",
       "description":"15Locker",
       "width":24.375,
       "depth":24,
@@ -208,7 +208,7 @@
       "id":"5a21390534f1f9e153acc1db"
    },
    {
-      "sku":"KRL712B",
+      "sku":"1116KRL712B",
       "description":"16Locker",
       "width":24.0625,
       "depth":24,
@@ -221,7 +221,7 @@
       "id":"5a21390534f1f9e153acc1dc"
    },
    {
-      "sku":"KRL7012A",
+      "sku":"1117KRL7012A",
       "description":"17Locker",
       "width":24.0625,
       "depth":29.125,
@@ -234,7 +234,7 @@
       "id":"5a21390534f1f9e153acc1dd"
    },
    {
-      "sku":"KRL7018",
+      "sku":"1118KRL7018",
       "description":"18Docker Locker",
       "width":24.0625,
       "depth":29.125,
@@ -247,7 +247,7 @@
       "id":"5a21390534f1f9e153acc1de"
    },
    {
-      "sku":"KRL1012B",
+      "sku":"1119KRL1012B",
       "description":"19Locker",
       "width":24.0625,
       "depth":29.125,
@@ -260,7 +260,7 @@
       "id":"5a21390534f1f9e153acc1df"
    },
    {
-      "sku":"KRL1018",
+      "sku":"1120KRL1018",
       "description":"20Docker Locker",
       "width":24.0625,
       "depth":29.125,
@@ -273,7 +273,7 @@
       "id":"5a21390534f1f9e153acc1e0"
    },
    {
-      "sku":"KELN301CL",
+      "sku":"1121KELN301CL",
       "description":"21L Locker",
       "width":30,
       "depth":30,
@@ -286,7 +286,7 @@
       "id":"5a21390534f1f9e153acc1e1"
    },
    {
-      "sku":"KELN301CR",
+      "sku":"1122KELN301CR",
       "description":"22R Locker",
       "width":30,
       "depth":30,
@@ -299,7 +299,7 @@
       "id":"5a21390534f1f9e153acc1e2"
    },
    {
-      "sku":"KELE301BL",
+      "sku":"1123KELE301BL",
       "description":"23L Locker (ECKO)",
       "width":30,
       "depth":30,
@@ -312,7 +312,7 @@
       "id":"5a21390534f1f9e153acc1e3"
    },
    {
-      "sku":"KELE301BR",
+      "sku":"1124KELE301BR",
       "description":"24R Locker (ECKO)",
       "width":30,
       "depth":30,
@@ -325,7 +325,7 @@
       "id":"5a21390534f1f9e153acc1e4"
    },
    {
-      "sku":"KELP301BL",
+      "sku":"1125KELP301BL",
       "description":"25L Power Locker",
       "width":30,
       "depth":30,
@@ -338,7 +338,7 @@
       "id":"5a21390534f1f9e153acc1e5"
    },
    {
-      "sku":"KELP301BR",
+      "sku":"1126KELP301BR",
       "description":"26R Power Locker",
       "width":30,
       "depth":30,
@@ -351,7 +351,7 @@
       "id":"5a21390534f1f9e153acc1e6"
    },
    {
-      "sku":"KELR301BL",
+      "sku":"1127KELR301BL",
       "description":"27L Power Locker (ECKO)",
       "width":30,
       "depth":30,
@@ -364,7 +364,7 @@
       "id":"5a21390534f1f9e153acc1e7"
    },
    {
-      "sku":"KELR301BR",
+      "sku":"1128KELR301BR",
       "description":"28R Power Locker (ECKO)",
       "width":30,
       "depth":30,
@@ -377,7 +377,7 @@
       "id":"5a21390534f1f9e153acc1e8"
    },
    {
-      "sku":"KRA2415",
+      "sku":"1129KRA2415",
       "description":"29Top Chest",
       "width":73,
       "depth":24,
@@ -390,7 +390,7 @@
       "id":"5a21390534f1f9e153acc1e9"
    },
    {
-      "sku":"KRA2410",
+      "sku":"1130KRA2410",
       "description":"30Top Chest",
       "width":55,
       "depth":24,
@@ -403,7 +403,7 @@
       "id":"5a21390534f1f9e153acc1ea"
    },
    {
-      "sku":"KRL751",
+      "sku":"1131KRL751",
       "description":"31Top Chest",
       "width":35.375,
       "depth":24,
@@ -416,7 +416,7 @@
       "id":"5a21390534f1f9e153acc1eb"
    },
    {
-      "sku":"KRA2405",
+      "sku":"1132KRA2405",
       "description":"32Top Chest",
       "width":36,
       "depth":24,
@@ -429,7 +429,7 @@
       "id":"5a21390534f1f9e153acc1ec"
    },
    {
-      "sku":"KRL791A",
+      "sku":"1133KRL791A",
       "description":"33Top Chest Dual",
       "width":54.25,
       "depth":24,
@@ -442,7 +442,7 @@
       "id":"5a21390534f1f9e153acc1ed"
    },
    {
-      "sku":"KRL1201A",
+      "sku":"1134KRL1201A",
       "description":"34Top Chest Dual",
       "width":54.25,
       "depth":29.125,
@@ -455,7 +455,7 @@
       "id":"5a21390534f1f9e153acc1ee"
    },
    {
-      "sku":"KRL1232",
+      "sku":"1135KRL1232",
       "description":"35Top Chest Dual",
       "width":72.125,
       "depth":29.125,
@@ -468,7 +468,7 @@
       "id":"5a21390534f1f9e153acc1ef"
    },
    {
-      "sku":"KRL1203B",
+      "sku":"1136KRL1203B",
       "description":"36Top Chest",
       "width":68,
       "depth":30,
@@ -481,7 +481,7 @@
       "id":"5a21390534f1f9e153acc1f5"
    },
    {
-      "sku":"KRL1251",
+      "sku":"1137KRL1251",
       "description":"37Top Chest",
       "width":35.625,
       "depth":29.125,
@@ -494,7 +494,7 @@
       "id":"5a21390534f1f9e153acc1f1"
    },
    {
-      "sku":"KECN842A",
+      "sku":"1138KECN842A",
       "description":"38Top Chest Dual",
       "width":84,
       "depth":30,
@@ -507,7 +507,7 @@
       "id":"5a21390534f1f9e153acc1f2"
    },
    {
-      "sku":"KECN843A",
+      "sku":"1139KECN843A",
       "description":"39Top Chest Triple",
       "width":84,
       "depth":30,
@@ -520,7 +520,7 @@
       "id":"5a21390534f1f9e153acc1f3"
    },
    {
-      "sku":"KECN602A",
+      "sku":"1140KECN602A",
       "description":"40Top Chest Dual",
       "width":60,
       "depth":30,
@@ -533,7 +533,7 @@
       "id":"5a21390534f1f9e153acc1f4"
    },
    {
-      "sku":"KECN682A",
+      "sku":"1141KECN682A",
       "description":"41Top Chest",
       "width":68,
       "depth":30,
@@ -546,7 +546,7 @@
       "id":"5a21390534f1f9e153acc1f5"
    },
    {
-      "sku":"KESN842A",
+      "sku":"1142KESN842A",
       "description":"42Drawer Section Dual",
       "width":84,
       "depth":30,
@@ -559,7 +559,7 @@
       "id":"5a21390534f1f9e153acc1f6"
    },
    {
-      "sku":"KESN602A",
+      "sku":"1143KESN602A",
       "description":"43Drawer Section",
       "width":60,
       "depth":30,
@@ -572,7 +572,7 @@
       "id":"5a21390534f1f9e153acc1f7"
    },
    {
-      "sku":"KESN843A",
+      "sku":"1144KESN843A",
       "description":"44Drawer Section Triple",
       "width":84,
       "depth":30,
@@ -585,7 +585,7 @@
       "id":"5a21390534f1f9e153acc1f8"
    },
    {
-      "sku":"KESN682A",
+      "sku":"1145KESN682A",
       "description":"45Drawer Section",
       "width":68,
       "depth":30,
@@ -598,7 +598,7 @@
       "id":"5a21390534f1f9e153acc1f9"
    },
    {
-      "sku":"KESE602A",
+      "sku":"1146KESE602A",
       "description":"46Drawer Section (ECKO)",
       "width":60,
       "depth":30,
@@ -611,7 +611,7 @@
       "id":"5a21390534f1f9e153acc1fa"
    },
    {
-      "sku":"KESE682A",
+      "sku":"1147KESE682A",
       "description":"47Drawer Section (ECKO)",
       "width":68,
       "depth":30,
@@ -624,7 +624,7 @@
       "id":"5a21390534f1f9e153acc1fb"
    },
    {
-      "sku":"KESE842A",
+      "sku":"1148KESE842A",
       "description":"48Drawer Section Dual (ECKO)",
       "width":84,
       "depth":30,
@@ -637,7 +637,7 @@
       "id":"5a21390534f1f9e153acc1fc"
    },
    {
-      "sku":"KRWL5435",
+      "sku":"1149KRWL5435",
       "description":"49Overhead",
       "width":54.25,
       "depth":21,
@@ -650,7 +650,7 @@
       "id":"5a21390534f1f9e153acc1fe"
    },
    {
-      "sku":"KRWL3635",
+      "sku":"1150KRWL3635",
       "description":"50Overhead",
       "width":36,
       "depth":21,
@@ -663,7 +663,7 @@
       "id":"5a21390534f1f9e153acc1ff"
    },
    {
-      "sku":"KRL5445A",
+      "sku":"1151KRL5445A",
       "description":"51Overhead",
       "width":54.25,
       "depth":27.5,
@@ -676,7 +676,7 @@
       "id":"5a21390534f1f9e153acc200"
    },
    {
-      "sku":"KRL7245A",
+      "sku":"1152KRL7245A",
       "description":"52Overhead",
       "width":72.875,
       "depth":27.5,
@@ -689,7 +689,7 @@
       "id":"5a21390534f1f9e153acc201"
    },
    {
-      "sku":"KEHN600B",
+      "sku":"1153KEHN600B",
       "description":"53Overhead",
       "width":60,
       "depth":30,
@@ -702,7 +702,7 @@
       "id":"5a21390534f1f9e153acc202"
    },
    {
-      "sku":"KEHN840B",
+      "sku":"1154KEHN840B",
       "description":"54Overhead",
       "width":84,
       "depth":30,
@@ -715,7 +715,7 @@
       "id":"5a21390534f1f9e153acc203"
    },
    {
-      "sku":"KEHN680C",
+      "sku":"1155KEHN680C",
       "description":"55Overhead",
       "width":68,
       "depth":30,
@@ -728,7 +728,7 @@
       "id":"5a21390534f1f9e153acc204"
    },
    {
-      "sku":"KRA2472",
+      "sku":"1156KRA2472",
       "description":"56Workcenter",
       "width":73,
       "depth":22.4375,
@@ -741,7 +741,7 @@
       "id":"5a21390534f1f9e153acc205"
    },
    {
-      "sku":"KEHN760B",
+      "sku":"1157KEHN760B",
       "description":"57Overhead",
       "width":76,
       "depth":30,
@@ -754,7 +754,7 @@
       "id":"5a21390534f1f9e153acc206"
    },
    {
-      "sku":"KRA2454",
+      "sku":"1158KRA2454",
       "description":"58Workcenter",
       "width":54.375,
       "depth":22.4375,
@@ -767,7 +767,7 @@
       "id":"5a21390534f1f9e153acc207"
    },
    {
-      "sku":"KRL1054",
+      "sku":"1159KRL1054",
       "description":"59Workcenter",
       "width":54.25,
       "depth":27.5,
@@ -780,7 +780,7 @@
       "id":"5a21390534f1f9e153acc208"
    },
    {
-      "sku":"KEWN600A",
+      "sku":"1160KEWN600A",
       "description":"60Workcenter",
       "width":60,
       "depth":30,
@@ -793,7 +793,7 @@
       "id":"5a21390534f1f9e153acc209"
    },
    {
-      "sku":"KRL1098",
+      "sku":"1161KRL1098",
       "description":"61End Cab Power Drawer",
       "width":19.75,
       "depth":29.125,
@@ -806,7 +806,7 @@
       "id":"5a21390534f1f9e153acc20a"
    },
    {
-      "sku":"KESE843A",
+      "sku":"1162KESE843A",
       "description":"62Drawer Section Triple (ECKO)",
       "width":84,
       "depth":30,
