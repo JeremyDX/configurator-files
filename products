@@ -1539,7 +1539,7 @@
     "id":"5a21390734f1f9e153acc233"
   },
   {
-    "sku":"CustomKRL_ROLL",
+    "sku":"KRL1032F",
     "description":"D268Roll Cab",
     "width":0.00,
     "depth":0.00,
@@ -1664,7 +1664,7 @@
         "zone":"workTop"
       }
     ],
-    "id":"5a21390734f1f9e153acc233"
+    "id":"5a21390734f1f9e153acc232"
   },
   {
     "sku":"KRL1033D",
