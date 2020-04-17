@@ -1548,14 +1548,14 @@
     "cuIn":46425,
     "price":13270,
     "priceClearCoat":null,
-    "order":1,
-    "category":"roll-cab",
+    "order":999,
+    "category":"roll-cab2",
     "series":"masters-series",
-    "imageDirectory":"1000_72",
+    "imageDirectory":"1000_725",
     "hasEckoUnlock":false,
     "topChests":[
       {
-        "sku":"KRL1232",
+        "sku":"KRL1232FF",
         "description":"269Top Chest Dual",
         "zone":"top"
       },
@@ -1664,7 +1664,7 @@
         "zone":"workTop"
       }
     ],
-    "id":"5a21390734f1f9e153acc232"
+    "id":"5a21390734f1f9e153acc232a"
   },
   {
     "sku":"KRL1033D",
