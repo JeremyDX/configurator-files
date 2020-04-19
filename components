@@ -1,821 +1,6664 @@
 [
-   {
-      "sku":"KRL1072",
-      "description":"0Workcenter",
-      "width":72.875,
-      "depth":27.5,
-      "height":23.5625,
-      "sqIn":4005,
-      "cuIn":26522,
-      "price":4275,
-      "priceClearCoat":null,
-      "category":"workcenter",
-      "id":"5a21390534f1f9e153acc1cc"
-   },
-   {
-      "sku":"KEWN840A",
-      "description":"1Workcenter",
-      "width":84,
-      "depth":30,
-      "height":25.5,
-      "sqIn":5130,
-      "cuIn":38924,
-      "price":4435,
-      "priceClearCoat":4985,
-      "category":"workcenter",
-      "id":"5a21390534f1f9e153acc1cd"
-   },
-   {
-      "sku":"KEWN680A",
-      "description":"2Workcenter",
-      "width":68,
-      "depth":30,
-      "height":25.5,
-      "sqIn":4303,
-      "cuIn":31196,
-      "price":3975,
-      "priceClearCoat":4435,
-      "category":"workcenter",
-      "id":"5a21390534f1f9e153acc1ce"
-   },
-   {
-      "sku":"KEWE600A",
-      "description":"3Workcenter (ECKO)",
-      "width":60,
-      "depth":30,
-      "height":25.5,
-      "sqIn":3890,
-      "cuIn":27332,
-      "price":4665,
-      "priceClearCoat":5150,
-      "category":"workcenter",
-      "id":"5a21390534f1f9e153acc1cf"
-   },
-   {
-      "sku":"KEWE680A",
-      "description":"4Workcenter (ECKO)",
-      "width":68,
-      "depth":30,
-      "height":25.5,
-      "sqIn":4303,
-      "cuIn":31196,
-      "price":4920,
-      "priceClearCoat":5415,
-      "category":"workcenter",
-      "id":"5a21390534f1f9e153acc1d0"
-   },
-   {
-      "sku":"KEWE760A",
-      "description":"5Workcenter (ECKO)",
-      "width":76,
-      "depth":30,
-      "height":25.5,
-      "sqIn":4717,
-      "cuIn":35060,
-      "price":5165,
-      "priceClearCoat":5705,
-      "category":"workcenter",
-      "id":"5a21390534f1f9e153acc1d1"
-   },
-   {
-      "sku":"KEWE840A",
-      "description":"6Workcenter (ECKO)",
-      "width":84,
-      "depth":30,
-      "height":25.5,
-      "sqIn":5130,
-      "cuIn":38924,
-      "price":5415,
-      "priceClearCoat":5990,
-      "category":"workcenter",
-      "id":"5a21390534f1f9e153acc1d2"
-   },
-   {
-      "sku":"KRA2406A",
-      "description":"7End Cab",
-      "width":20.25,
-      "depth":24,
-      "height":39.25,
-      "sqIn":1918,
-      "cuIn":7574,
-      "price":2485,
-      "priceClearCoat":null,
-      "category":"end-cabinet",
-      "id":"5a21390534f1f9e153acc1d3"
-   },
-   {
-      "sku":"KRL711A",
-      "description":"8End Cab",
-      "width":19.75,
-      "depth":24,
-      "height":32.9375,
-      "sqIn":2239,
-      "cuIn":7438,
-      "price":2430,
-      "priceClearCoat":null,
-      "category":"end-cabinet",
-      "id":"5a21390534f1f9e153acc1d4"
-   },
-   {
-      "sku":"KRL7011A",
-      "description":"9End Cab",
-      "width":19.75,
-      "depth":29.125,
-      "height":32.9375,
-      "sqIn":2758,
-      "cuIn":9160,
-      "price":2940,
-      "priceClearCoat":null,
-      "category":"end-cabinet",
-      "id":"5a21390534f1f9e153acc1d5"
-   },
-   {
-      "sku":"KRL7015B",
-      "description":"10Bulk End Cab",
-      "width":19.75,
-      "depth":29.125,
-      "height":35.3125,
-      "sqIn":1094,
-      "cuIn":9770,
-      "price":2240,
-      "priceClearCoat":null,
-      "category":"end-cabinet-bulk",
-      "id":"5a21390534f1f9e153acc1d6"
-   },
-   {
-      "sku":"KRL1011A",
-      "description":"11End Cab",
-      "width":19.75,
-      "depth":29.125,
-      "height":37.9375,
-      "sqIn":3152,
-      "cuIn":10735,
-      "price":3320,
-      "priceClearCoat":null,
-      "category":"end-cabinet",
-      "id":"5a21390534f1f9e153acc1d7"
-   },
-   {
-      "sku":"KRL1015B",
-      "description":"12Bulk End Cab",
-      "width":19.75,
-      "depth":29.125,
-      "height":37.3125,
-      "sqIn":1094,
-      "cuIn":11608,
-      "price":2365,
-      "priceClearCoat":null,
-      "category":"end-cabinet-bulk",
-      "id":"5a21390534f1f9e153acc1d8"
-   },
-   {
-      "sku":"KEBN301BL",
-      "description":"13L Bulk End Cab",
-      "width":30,
-      "depth":30,
-      "height":46.875,
-      "sqIn":2461,
-      "cuIn":17260,
-      "price":3730,
-      "priceClearCoat":4150,
-      "category":"end-cabinet-bulk",
-      "id":"5a21390534f1f9e153acc1d9"
-   },
-   {
-      "sku":"KEBN301BR",
-      "description":"14R Bulk End Cab",
-      "width":30,
-      "depth":30,
-      "height":46.875,
-      "sqIn":2461,
-      "cuIn":17260,
-      "price":3730,
-      "priceClearCoat":4150,
-      "category":"end-cabinet-bulk",
-      "id":"5a21390534f1f9e153acc1da"
-   },
-   {
-      "sku":"KRA2403",
-      "description":"15Locker",
-      "width":24.375,
-      "depth":24,
-      "height":61,
-      "sqIn":2509,
-      "cuIn":17035,
-      "price":3035,
-      "priceClearCoat":null,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1db"
-   },
-   {
-      "sku":"KRL712B",
-      "description":"16Locker",
-      "width":24.0625,
-      "depth":24,
-      "height":53.4375,
-      "sqIn":2831,
-      "cuIn":20568,
-      "price":3490,
-      "priceClearCoat":null,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1dc"
-   },
-   {
-      "sku":"KRL7012A",
-      "description":"17Locker",
-      "width":24.0625,
-      "depth":29.125,
-      "height":57.9375,
-      "sqIn":3564,
-      "cuIn":26085,
-      "price":3730,
-      "priceClearCoat":null,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1dd"
-   },
-   {
-      "sku":"KRL7018",
-      "description":"18Docker Locker",
-      "width":24.0625,
-      "depth":29.125,
-      "height":57.9375,
-      "sqIn":1578,
-      "cuIn":29139,
-      "price":2745,
-      "priceClearCoat":null,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1de"
-   },
-   {
-      "sku":"KRL1012B",
-      "description":"19Locker",
-      "width":24.0625,
-      "depth":29.125,
-      "height":62.375,
-      "sqIn":3564,
-      "cuIn":28446,
-      "price":3860,
-      "priceClearCoat":null,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1df"
-   },
-   {
-      "sku":"KRL1018",
-      "description":"20Docker Locker",
-      "width":24.0625,
-      "depth":29.125,
-      "height":62.375,
-      "sqIn":2323,
-      "cuIn":31642,
-      "price":2815,
-      "priceClearCoat":null,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1e0"
-   },
-   {
-      "sku":"KELN301CL",
-      "description":"21L Locker",
-      "width":30,
-      "depth":30,
-      "height":74,
-      "sqIn":4310,
-      "cuIn":32835,
-      "price":5000,
-      "priceClearCoat":5600,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1e1"
-   },
-   {
-      "sku":"KELN301CR",
-      "description":"22R Locker",
-      "width":30,
-      "depth":30,
-      "height":74,
-      "sqIn":4310,
-      "cuIn":32835,
-      "price":5000,
-      "priceClearCoat":5600,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1e2"
-   },
-   {
-      "sku":"KELE301BL",
-      "description":"23L Locker (ECKO)",
-      "width":30,
-      "depth":30,
-      "height":74,
-      "sqIn":4310,
-      "cuIn":32835,
-      "price":5690,
-      "priceClearCoat":6285,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1e3"
-   },
-   {
-      "sku":"KELE301BR",
-      "description":"24R Locker (ECKO)",
-      "width":30,
-      "depth":30,
-      "height":74,
-      "sqIn":4310,
-      "cuIn":32835,
-      "price":5690,
-      "priceClearCoat":6285,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1e4"
-   },
-   {
-      "sku":"KELP301BL",
-      "description":"25L Power Locker",
-      "width":30,
-      "depth":30,
-      "height":74,
-      "sqIn":3745,
-      "cuIn":33798,
-      "price":5705,
-      "priceClearCoat":6300,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1e5"
-   },
-   {
-      "sku":"KELP301BR",
-      "description":"26R Power Locker",
-      "width":30,
-      "depth":30,
-      "height":74,
-      "sqIn":3745,
-      "cuIn":33798,
-      "price":5705,
-      "priceClearCoat":6300,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1e6"
-   },
-   {
-      "sku":"KELR301BL",
-      "description":"27L Power Locker (ECKO)",
-      "width":30,
-      "depth":30,
-      "height":74,
-      "sqIn":3745,
-      "cuIn":33798,
-      "price":6390,
-      "priceClearCoat":6985,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1e7"
-   },
-   {
-      "sku":"KELR301BR",
-      "description":"28R Power Locker (ECKO)",
-      "width":30,
-      "depth":30,
-      "height":74,
-      "sqIn":3745,
-      "cuIn":33798,
-      "price":6390,
-      "priceClearCoat":6985,
-      "category":"locker",
-      "id":"5a21390534f1f9e153acc1e8"
-   },
-   {
-      "sku":"KRA2415",
-      "description":"29Top Chest",
-      "width":73,
-      "depth":24,
-      "height":28.625,
-      "sqIn":8174,
-      "cuIn":28348,
-      "price":4850,
-      "priceClearCoat":null,
-      "category":"top-chest",
-      "id":"5a21390534f1f9e153acc1e9"
-   },
-   {
-      "sku":"KRA2410",
-      "description":"30Top Chest",
-      "width":55,
-      "depth":24,
-      "height":28.625,
-      "sqIn":6137,
-      "cuIn":21283,
-      "price":3580,
-      "priceClearCoat":null,
-      "category":"top-chest",
-      "id":"5a21390534f1f9e153acc1ea"
-   },
-   {
-      "sku":"KRL751",
-      "description":"31Top Chest",
-      "width":35.375,
-      "depth":24,
-      "height":21,
-      "sqIn":4115,
-      "cuIn":13294,
-      "price":3540,
-      "priceClearCoat":null,
-      "category":"top-chest",
-      "id":"5a21390534f1f9e153acc1eb"
-   },
-   {
-      "sku":"KRA2405",
-      "description":"32Top Chest",
-      "width":36,
-      "depth":24,
-      "height":28,
-      "sqIn":4139,
-      "cuIn":14333,
-      "price":2655,
-      "priceClearCoat":null,
-      "category":"top-chest",
-      "id":"5a21390534f1f9e153acc1ec"
-   },
-   {
-      "sku":"KRL791A",
-      "description":"33Top Chest Dual",
-      "width":54.25,
-      "depth":24,
-      "height":21,
-      "sqIn":5132,
-      "cuIn":15927,
-      "price":5255,
-      "priceClearCoat":null,
-      "category":"top-chest-dual",
-      "id":"5a21390534f1f9e153acc1ed"
-   },
-   {
-      "sku":"KRL1201A",
-      "description":"34Top Chest Dual",
-      "width":54.25,
-      "depth":29.125,
-      "height":25.375,
-      "sqIn":7526,
-      "cuIn":24456,
-      "price":7465,
-      "priceClearCoat":null,
-      "category":"top-chest-dual",
-      "id":"5a21390534f1f9e153acc1ee"
-   },
-   {
-      "sku":"KRL1232",
-      "description":"35Top Chest Dual",
-      "width":72.125,
-      "depth":29.125,
-      "height":25.375,
-      "sqIn":10553,
-      "cuIn":33358,
-      "price":9340,
-      "priceClearCoat":null,
-      "category":"top-chest-dual",
-      "id":"5a21390534f1f9e153acc1ef"
-   },
-   {
-      "sku":"KRL1203B",
-      "description":"36Top Chest",
-      "width":68,
-      "depth":30,
-      "height":27.5,
-      "sqIn":9721,
-      "cuIn":32741,
-      "price":8975,
-      "priceClearCoat":10045,
-      "category":"top-chest-dual",
-      "id":"5a21390534f1f9e153acc1f5"
-   },
-   {
-      "sku":"KRL1251",
-      "description":"37Top Chest",
-      "width":35.625,
-      "depth":29.125,
-      "height":25.375,
-      "sqIn":5059,
-      "cuIn":16348,
-      "price":4600,
-      "priceClearCoat":null,
-      "category":"top-chest",
-      "id":"5a21390534f1f9e153acc1f1"
-   },
-   {
-      "sku":"KECN842A",
-      "description":"38Top Chest Dual",
-      "width":84,
-      "depth":30,
-      "height":27.5,
-      "sqIn":12362,
-      "cuIn":40996,
-      "price":11030,
-      "priceClearCoat":12345,
-      "category":"top-chest-dual",
-      "id":"5a21390534f1f9e153acc1f2"
-   },
-   {
-      "sku":"KECN843A",
-      "description":"39Top Chest Triple",
-      "width":84,
-      "depth":30,
-      "height":27.5,
-      "sqIn":11760,
-      "cuIn":39722,
-      "price":11030,
-      "priceClearCoat":12345,
-      "category":"top-chest-triple",
-      "id":"5a21390534f1f9e153acc1f3"
-   },
-   {
-      "sku":"KECN602A",
-      "description":"40Top Chest Dual",
-      "width":60,
-      "depth":30,
-      "height":27.5,
-      "sqIn":8400,
-      "cuIn":28330,
-      "price":7815,
-      "priceClearCoat":8755,
-      "category":"top-chest-dual",
-      "id":"5a21390534f1f9e153acc1f4"
-   },
-   {
-      "sku":"KECN682A",
-      "description":"41Top Chest",
-      "width":68,
-      "depth":30,
-      "height":27.5,
-      "sqIn":9721,
-      "cuIn":32741,
-      "price":8975,
-      "priceClearCoat":10045,
-      "category":"top-chest-dual",
-      "id":"5a21390534f1f9e153acc1f5"
-   },
-   {
-      "sku":"KESN842A",
-      "description":"42Drawer Section Dual",
-      "width":84,
-      "depth":30,
-      "height":27.5,
-      "sqIn":12200,
-      "cuIn":38368,
-      "price":11030,
-      "priceClearCoat":12345,
-      "category":"drawer-section",
-      "id":"5a21390534f1f9e153acc1f6"
-   },
-   {
-      "sku":"KESN602A",
-      "description":"43Drawer Section",
-      "width":60,
-      "depth":30,
-      "height":27.5,
-      "sqIn":8228,
-      "cuIn":26387,
-      "price":7815,
-      "priceClearCoat":8755,
-      "category":"drawer-section",
-      "id":"5a21390534f1f9e153acc1f7"
-   },
-   {
-      "sku":"KESN843A",
-      "description":"44Drawer Section Triple",
-      "width":84,
-      "depth":30,
-      "height":27.5,
-      "sqIn":11476,
-      "cuIn":36802,
-      "price":11030,
-      "priceClearCoat":12345,
-      "category":"drawer-section-triple",
-      "id":"5a21390534f1f9e153acc1f8"
-   },
-   {
-      "sku":"KESN682A",
-      "description":"45Drawer Section",
-      "width":68,
-      "depth":30,
-      "height":27.5,
-      "sqIn":9552,
-      "cuIn":30632,
-      "price":8975,
-      "priceClearCoat":10045,
-      "category":"drawer-section",
-      "id":"5a21390534f1f9e153acc1f9"
-   },
-   {
-      "sku":"KESE602A",
-      "description":"46Drawer Section (ECKO)",
-      "width":60,
-      "depth":30,
-      "height":27.5,
-      "sqIn":8228,
-      "cuIn":26387,
-      "price":8495,
-      "priceClearCoat":9440,
-      "category":"drawer-section",
-      "id":"5a21390534f1f9e153acc1fa"
-   },
-   {
-      "sku":"KESE682A",
-      "description":"47Drawer Section (ECKO)",
-      "width":68,
-      "depth":30,
-      "height":27.5,
-      "sqIn":9552,
-      "cuIn":30632,
-      "price":9665,
-      "priceClearCoat":10735,
-      "category":"drawer-section",
-      "id":"5a21390534f1f9e153acc1fb"
-   },
-   {
-      "sku":"KESE842A",
-      "description":"48Drawer Section Dual (ECKO)",
-      "width":84,
-      "depth":30,
-      "height":27.5,
-      "sqIn":12200,
-      "cuIn":38368,
-      "price":11710,
-      "priceClearCoat":13035,
-      "category":"drawer-section",
-      "id":"5a21390534f1f9e153acc1fc"
-   },
-   {
-      "sku":"KRWL5435",
-      "description":"49Overhead",
-      "width":54.25,
-      "depth":21,
-      "height":16,
-      "sqIn":1041,
-      "cuIn":15070,
-      "price":1645,
-      "priceClearCoat":null,
-      "category":"overhead-cabinet",
-      "id":"5a21390534f1f9e153acc1fe"
-   },
-   {
-      "sku":"KRWL3635",
-      "description":"50Overhead",
-      "width":36,
-      "depth":21,
-      "height":16,
-      "sqIn":683,
-      "cuIn":9885,
-      "price":1280,
-      "priceClearCoat":null,
-      "category":"overhead-cabinet",
-      "id":"5a21390534f1f9e153acc1ff"
-   },
-   {
-      "sku":"KRL5445A",
-      "description":"51Overhead",
-      "width":54.25,
-      "depth":27.5,
-      "height":18.5,
-      "sqIn":1274,
-      "cuIn":18945,
-      "price":2175,
-      "priceClearCoat":null,
-      "category":"overhead-cabinet",
-      "id":"5a21390534f1f9e153acc200"
-   },
-   {
-      "sku":"KRL7245A",
-      "description":"52Overhead",
-      "width":72.875,
-      "depth":27.5,
-      "height":18.125,
-      "sqIn":1740,
-      "cuIn":25880,
-      "price":2735,
-      "priceClearCoat":null,
-      "category":"overhead-cabinet",
-      "id":"5a21390534f1f9e153acc201"
-   },
-   {
-      "sku":"KEHN600B",
-      "description":"53Overhead",
-      "width":60,
-      "depth":30,
-      "height":21.875,
-      "sqIn":1573,
-      "cuIn":27642,
-      "price":2555,
-      "priceClearCoat":2880,
-      "category":"overhead-cabinet",
-      "id":"5a21390534f1f9e153acc202"
-   },
-   {
-      "sku":"KEHN840B",
-      "description":"54Overhead",
-      "width":84,
-      "depth":30,
-      "height":21.875,
-      "sqIn":2243,
-      "cuIn":39426,
-      "price":2940,
-      "priceClearCoat":3295,
-      "category":"overhead-cabinet",
-      "id":"5a21390534f1f9e153acc203"
-   },
-   {
-      "sku":"KEHN680C",
-      "description":"55Overhead",
-      "width":68,
-      "depth":30,
-      "height":21.875,
-      "sqIn":1796,
-      "cuIn":31570,
-      "price":2690,
-      "priceClearCoat":3010,
-      "category":"overhead-cabinet",
-      "id":"5a21390534f1f9e153acc204"
-   },
-   {
-      "sku":"KRA2472",
-      "description":"56Workcenter",
-      "width":73,
-      "depth":22.4375,
-      "height":27,
-      "sqIn":3594,
-      "cuIn":27133,
-      "price":3690,
-      "priceClearCoat":null,
-      "category":"workcenter",
-      "id":"5a21390534f1f9e153acc205"
-   },
-   {
-      "sku":"KEHN760B",
-      "description":"57Overhead",
-      "width":76,
-      "depth":30,
-      "height":21.875,
-      "sqIn":2020,
-      "cuIn":35498,
-      "price":2815,
-      "priceClearCoat":3160,
-      "category":"overhead-cabinet",
-      "id":"5a21390534f1f9e153acc206"
-   },
-   {
-      "sku":"KRA2454",
-      "description":"58Workcenter",
-      "width":54.375,
-      "depth":22.4375,
-      "height":27,
-      "sqIn":2791,
-      "cuIn":16115,
-      "price":3270,
-      "priceClearCoat":null,
-      "category":"workcenter",
-      "id":"5a21390534f1f9e153acc207"
-   },
-   {
-      "sku":"KRL1054",
-      "description":"59Workcenter",
-      "width":54.25,
-      "depth":27.5,
-      "height":25.5,
-      "sqIn":3136,
-      "cuIn":19409,
-      "price":3860,
-      "priceClearCoat":null,
-      "category":"workcenter",
-      "id":"5a21390534f1f9e153acc208"
-   },
-   {
-      "sku":"KEWN600A",
-      "description":"60Workcenter",
-      "width":60,
-      "depth":30,
-      "height":25.5,
-      "sqIn":3890,
-      "cuIn":27332,
-      "price":3735,
-      "priceClearCoat":4185,
-      "category":"workcenter",
-      "id":"5a21390534f1f9e153acc209"
-   },
-   {
-      "sku":"KRL1098",
-      "description":"61End Cab Power Drawer",
-      "width":19.75,
-      "depth":29.125,
-      "height":37.3125,
-      "sqIn":2364,
-      "cuIn":11088,
-      "price":3325,
-      "priceClearCoat":null,
-      "category":"end-cabinet-power-tool-organizer-drawer",
-      "id":"5a21390534f1f9e153acc20a"
-   },
-   {
-      "sku":"KESE843A",
-      "description":"62Drawer Section Triple (ECKO)",
-      "width":84,
-      "depth":30,
-      "height":27.5,
-      "sqIn":11476,
-      "cuIn":36802,
-      "price":11710,
-      "priceClearCoat":13035,
-      "category":"drawer-section-triple",
-      "id":"5a21390534f1f9e153acc1fd"
-   }
+	{
+		"sku":"KTP1022A",
+		"description":"TUV",
+		"width":106,
+		"depth":35,
+		"height":70,
+		"sqIn":15757,
+		"cuIn":99252,
+		"price":22615,
+		"priceClearCoat":null,
+		"order":0,
+		"category":"tuv",
+		"series":"tuv-series",
+		"imageDirectory":"tuv",
+		"hasEckoUnlock":false,
+		"id":"5a21390734f1f9e153acc220"
+	},
+	{
+		"sku":"KRP1032C",
+		"description":"TUV",
+		"width":124,
+		"depth":35,
+		"height":70,
+		"sqIn":19426,
+		"cuIn":113947,
+		"price":26030,
+		"priceClearCoat":null,
+		"order":2,
+		"category":"tuv",
+		"series":"tuv-series",
+		"imageDirectory":"tuv",
+		"hasEckoUnlock":false,
+		"id":"5a21390734f1f9e153acc221"
+	},
+	{
+		"sku":"KRT1032C",
+		"description":"TUV",
+		"width":124,
+		"depth":35,
+		"height":70,
+		"sqIn":26709,
+		"cuIn":120528,
+		"price":28925,
+		"priceClearCoat":null,
+		"order":3,
+		"category":"tuv",
+		"series":"tuv-series",
+		"imageDirectory":"tuv",
+		"hasEckoUnlock":false,
+		"id":"5a21390734f1f9e153acc222"
+	},
+	{
+		"sku":"KRP1023C",
+		"description":"TUV",
+		"width":124,
+		"depth":35,
+		"height":70,
+		"sqIn":20277,
+		"cuIn":111477,
+		"price":26030,
+		"priceClearCoat":null,
+		"order":4,
+		"category":"tuv",
+		"series":"tuv-series",
+		"imageDirectory":"tuv",
+		"hasEckoUnlock":false,
+		"id":"5a21390734f1f9e153acc223"
+	},
+	{
+		"sku":"KRT1023C",
+		"description":"TUV",
+		"width":124,
+		"depth":35,
+		"height":70,
+		"sqIn":27018,
+		"cuIn":117472,
+		"price":28925,
+		"priceClearCoat":null,
+		"order":5,
+		"category":"tuv",
+		"series":"tuv-series",
+		"imageDirectory":"tuv",
+		"hasEckoUnlock":false,
+		"id":"5a21390734f1f9e153acc224"
+	},
+	{
+		"sku":"KRP1022C",
+		"description":"TUV",
+		"width":106,
+		"depth":35,
+		"height":70,
+		"sqIn":16868,
+		"cuIn":98413,
+		"price":22615,
+		"priceClearCoat":null,
+		"order":6,
+		"category":"tuv",
+		"series":"tuv-series",
+		"imageDirectory":"tuv",
+		"hasEckoUnlock":false,
+		"id":"5a21390734f1f9e153acc225"
+	},
+	{
+		"sku":"KRT1022C",
+		"description":"TUV",
+		"width":106,
+		"depth":35,
+		"height":70,
+		"sqIn":21036,
+		"cuIn":99267,
+		"price":24765,
+		"priceClearCoat":null,
+		"order":7,
+		"category":"tuv",
+		"series":"tuv-series",
+		"imageDirectory":"tuv",
+		"hasEckoUnlock":false,
+		"id":"5a21390734f1f9e153acc226"
+	},
+	{
+		"sku":"KRP1033C",
+		"description":"TUV",
+		"width":124,
+		"depth":35,
+		"height":70,
+		"sqIn":20766,
+		"cuIn":112931,
+		"price":26030,
+		"priceClearCoat":null,
+		"order":8,
+		"category":"tuv",
+		"series":"tuv-series",
+		"imageDirectory":"tuv",
+		"hasEckoUnlock":false,
+		"id":"5a21390734f1f9e153acc227"
+	},
+	{
+		"sku":"KRT1033C",
+		"description":"TUV",
+		"width":124,
+		"depth":35,
+		"height":70,
+		"sqIn":26755,
+		"cuIn":118518,
+		"price":28925,
+		"priceClearCoat":null,
+		"order":9,
+		"category":"tuv",
+		"series":"tuv-series",
+		"imageDirectory":"tuv",
+		"hasEckoUnlock":false,
+		"id":"5a21390734f1f9e153acc228"
+	},
+	{
+		"sku":"KTP1023",
+		"description":"TUV",
+		"width":124,
+		"depth":35,
+		"height":70,
+		"sqIn":18178,
+		"cuIn":112501,
+		"price":26030,
+		"priceClearCoat":null,
+		"order":1,
+		"category":"tuv",
+		"series":"tuv-series",
+		"imageDirectory":"tuv",
+		"hasEckoUnlock":false,
+		"id":"5a21390734f1f9e153acc229"
+	},
+	{
+		"sku":"KETE682B",
+		"description":"Roll Cab",
+		"width":68,
+		"depth":30,
+		"height":46.875,
+		"sqIn":11046,
+		"cuIn":45147,
+		"price":13840,
+		"priceClearCoat":15055,
+		"order":24,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"68",
+		"hasEckoUnlock":true,
+		"topChests":[
+			{
+				"sku":"KECN682A",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWE680A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3068BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN680C",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3068BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3068BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3068ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3068ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3068AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc22c"
+	},
+	{
+		"sku":"KERN682C",
+		"description":"Roll Cab",
+		"width":68,
+		"depth":30,
+		"height":46.875,
+		"sqIn":12412,
+		"cuIn":43922,
+		"price":13140,
+		"priceClearCoat":14360,
+		"order":22,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"68",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN682A",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN682A",
+				"description":"Drawer Section",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN680A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3068BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN680C",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3068BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3068BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3068ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3068ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3068AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc22a"
+	},
+	{
+		"sku":"KETN682B",
+		"description":"Roll Cab",
+		"width":68,
+		"depth":30,
+		"height":46.875,
+		"sqIn":11046,
+		"cuIn":45147,
+		"price":13140,
+		"priceClearCoat":14360,
+		"order":23,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"68",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN682A",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN682A",
+				"description":"Drawer Section",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN680A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3068BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN680C",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3068BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3068BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3068ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3068ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3068AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc22b"
+	},
+	{
+		"sku":"KERE682B",
+		"description":"Roll Cab",
+		"width":68,
+		"depth":30,
+		"height":46.875,
+		"sqIn":12412,
+		"cuIn":43922,
+		"price":13840,
+		"priceClearCoat":15055,
+		"order":25,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"68",
+		"hasEckoUnlock":true,
+		"topChests":[
+			{
+				"sku":"KECN682A",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESE682A",
+				"description":"Drawer Section",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWE680A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3068BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN680C",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3068BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3068BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3068ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3068ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3068AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc22d"
+	},
+	{
+		"sku":"KERN602C",
+		"description":"Roll Cab",
+		"width":60,
+		"depth":30,
+		"height":46.875,
+		"sqIn":10650,
+		"cuIn":38000,
+		"price":11745,
+		"priceClearCoat":12855,
+		"order":26,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"60",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN602A",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN602A",
+				"description":"Drawer Section",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN600A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3060BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3060BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3060BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3060ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3060ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3060AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc22e"
+	},
+	{
+		"sku":"KETN602B",
+		"description":"Roll Cab",
+		"width":60,
+		"depth":30,
+		"height":46.875,
+		"sqIn":9490,
+		"cuIn":39119,
+		"price":11745,
+		"priceClearCoat":12855,
+		"order":27,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"60",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN602A",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN602A",
+				"description":"Drawer Section",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN600A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3060BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3060BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3060BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3060ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3060ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3060AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc22f"
+	},
+	{
+		"sku":"KETE602B",
+		"description":"Roll Cab",
+		"width":60,
+		"depth":30,
+		"height":46.875,
+		"sqIn":9490,
+		"cuIn":39119,
+		"price":12440,
+		"priceClearCoat":13540,
+		"order":28,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"60",
+		"hasEckoUnlock":true,
+		"topChests":[
+			{
+				"sku":"KECN602A",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESE602A",
+				"description":"Drawer Section",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWE600A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3060BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3060BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3060BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3060ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3060ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3060AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc230"
+	},
+	{
+		"sku":"KERE602B",
+		"description":"Roll Cab",
+		"width":60,
+		"depth":30,
+		"height":46.875,
+		"sqIn":10650,
+		"cuIn":38000,
+		"price":12440,
+		"priceClearCoat":13540,
+		"order":29,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"60",
+		"hasEckoUnlock":true,
+		"topChests":[
+			{
+				"sku":"KECN602A",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESE602A",
+				"description":"Drawer Section",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWE600A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3060BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3060BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3060BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3060ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3060ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3060AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc231"
+	},
+	{
+		"sku":"KMP1163",
+		"description":"Roll Cab",
+		"width":72.875,
+		"depth":29.125,
+		"height":45.875,
+		"sqIn":9457,
+		"cuIn":45665,
+		"price":14075,
+		"priceClearCoat":null,
+		"order":0,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"1000_72",
+		"topChests":[
+			{
+				"sku":"KRL1232",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KRL1203B",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRL1072",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST7003B",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRL7245A",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL1015B",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1015B",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"L End Cab Power Drawer",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"R End Cab Power Drawer",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRL1018",
+				"description":"L Docker Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1018",
+				"description":"R Docker Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST7003B",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023AST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT1023",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT7003A",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"hasEckoUnlock":false,
+		"id":"5a21390734f1f9e153acc232"
+	},
+	{
+		"sku":"KRL1032F",
+		"description":"Roll Cab",
+		"width":72.875,
+		"depth":29.125,
+		"height":45.875,
+		"sqIn":12251,
+		"cuIn":46425,
+		"price":13270,
+		"priceClearCoat":null,
+		"order":1,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"1000_72",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRL1232",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KRL1203B",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRL1072",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST7003B",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRL7245A",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL1015B",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1015B",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"L End Cab Power Drawer",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"R End Cab Power Drawer",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRL1018",
+				"description":"L Docker Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1018",
+				"description":"R Docker Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST7003B",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023AST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT1023",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT7003A",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc233"
+	},
+	{
+		"sku":"KRL1033D",
+		"description":"Roll Cab",
+		"width":72.875,
+		"depth":29.125,
+		"height":45.875,
+		"sqIn":12925,
+		"cuIn":44761,
+		"price":13270,
+		"priceClearCoat":null,
+		"order":2,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"1000_72",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRL1232",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KRL1203B",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRL1072",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST7003B",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRL7245A",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL1015B",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1015B",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"L End Cab Power Drawer",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"R End Cab Power Drawer",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRL1018",
+				"description":"L Docker Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1018",
+				"description":"R Docker Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST7003B",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023AST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT1023",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT7003A",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc234"
+	},
+	{
+		"sku":"KRL1023D",
+		"description":"Roll Cab",
+		"width":72.875,
+		"depth":29.125,
+		"height":45.875,
+		"sqIn":13111,
+		"cuIn":44260,
+		"price":13270,
+		"priceClearCoat":null,
+		"order":3,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"1000_72",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRL1232",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KRL1203B",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRL1072",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST7003B",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRL7245A",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL1015B",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1015B",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"L End Cab Power Drawer",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"R End Cab Power Drawer",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRL1018",
+				"description":"L Docker Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1018",
+				"description":"R Docker Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST7003B",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023AST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT1023",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT7003A",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc235"
+	},
+	{
+		"sku":"KTL1023A",
+		"description":"Roll Cab",
+		"width":72.875,
+		"depth":29.125,
+		"height":45.875,
+		"sqIn":11605,
+		"cuIn":45242,
+		"price":13270,
+		"priceClearCoat":null,
+		"order":4,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"1000_72",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRL1232",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KRL1203B",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRL1072",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST7003B",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRL7245A",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL1015B",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1015B",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"L End Cab Power Drawer",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"R End Cab Power Drawer",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRL1018",
+				"description":"L Docker Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1018",
+				"description":"R Docker Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST7003B",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023AST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT1023",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT7003A",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc236"
+	},
+	{
+		"sku":"KRL1163A",
+		"description":"Roll Cab",
+		"width":72.875,
+		"depth":29.125,
+		"height":45.875,
+		"sqIn":10314,
+		"cuIn":45593,
+		"price":13270,
+		"priceClearCoat":null,
+		"order":5,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"1000_72",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRL1232",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KRL1203B",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRL1072",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST7003B",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRL7245A",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL1015B",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1015B",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"L End Cab Power Drawer",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"R End Cab Power Drawer",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRL1018",
+				"description":"L Docker Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1018",
+				"description":"R Docker Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST7003B",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023AST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT1023",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT7003A",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc237"
+	},
+	{
+		"sku":"KRL7023D",
+		"description":"Roll Cab",
+		"width":72.875,
+		"depth":29.125,
+		"height":41.375,
+		"sqIn":11499,
+		"cuIn":37812,
+		"price":11615,
+		"priceClearCoat":null,
+		"order":6,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"7000_72",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRL1232",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KRL1203B",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRL1072",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST7003B",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRL7245A",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL7011A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL7011A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL7015B",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL7015B",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRL7018",
+				"description":"L Docker Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL7018",
+				"description":"R Docker Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL7012A",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL7012A",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST7003B",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023AST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT1023",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT7003A",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc238"
+	},
+	{
+		"sku":"KTL7023A",
+		"description":"Roll Cab",
+		"width":72.875,
+		"depth":29,
+		"height":41.25,
+		"sqIn":9993,
+		"cuIn":38916,
+		"price":11780,
+		"priceClearCoat":null,
+		"order":7,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"7000_72",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRL1232",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KRL1203B",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRL1072",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST7003B",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRL7245A",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL7011A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL7011A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL7015B",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL7015B",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRL7018",
+				"description":"L Docker Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL7018",
+				"description":"R Docker Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL7012A",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL7012A",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST7003B",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023AST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT1023",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1023ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT7003A",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc239"
+	},
+	{
+		"sku":"KTL1022A",
+		"description":"Roll Cab",
+		"width":54.5,
+		"depth":29,
+		"height":45.625,
+		"sqIn":8452,
+		"cuIn":34573,
+		"price":9695,
+		"priceClearCoat":null,
+		"order":8,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"1000_54",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRL1201A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRL1054",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST1001B",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRL5445A",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL1015B",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1015B",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"L End Cab Power Drawer",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"R End Cab Power Drawer",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRL1018",
+				"description":"L Docker Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1018",
+				"description":"R Docker Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST1001B",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1022AST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT1022",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1022ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT7002A",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc23a"
+	},
+	{
+		"sku":"KRL1022D",
+		"description":"Roll Cab",
+		"width":54.25,
+		"depth":29.125,
+		"height":45.875,
+		"sqIn":9563,
+		"cuIn":33735,
+		"price":9695,
+		"priceClearCoat":null,
+		"order":9,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"1000_54",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRL1201A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRL1054",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST1001B",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRL5445A",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL1015B",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1015B",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"L End Cab Power Drawer",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"R End Cab Power Drawer",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRL1018",
+				"description":"L Docker Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1018",
+				"description":"R Docker Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST1001B",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1022AST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT1022",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1022ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT7002A",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc23b"
+	},
+	{
+		"sku":"KRL722B",
+		"description":"Roll Cab",
+		"width":54.25,
+		"depth":24,
+		"height":39.875,
+		"sqIn":6770,
+		"cuIn":23251,
+		"price":6945,
+		"priceClearCoat":null,
+		"order":10,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"700_54",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRL791A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRA2454",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST761B",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRWL5435",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL711A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL711A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRL712B",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL712B",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST761B",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP722AST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT722",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP722ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT761B",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc23c"
+	},
+	{
+		"sku":"KRL7022D",
+		"description":"Roll Cab",
+		"width":54.25,
+		"depth":29.125,
+		"height":41.375,
+		"sqIn":8341,
+		"cuIn":32160,
+		"price":8620,
+		"priceClearCoat":null,
+		"order":11,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"7000_54",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRL1201A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRL1054",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST1001B",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRL5445A",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL7011A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL7011A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL7015B",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL7015B",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRL7018",
+				"description":"L Docker Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL7018",
+				"description":"R Docker Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL7012A",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL7012A",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST1001B",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1022AST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT1022",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP1022ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT7002A",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc23d"
+	},
+	{
+		"sku":"KRL1056C",
+		"description":"Roll Cab",
+		"width":35.625,
+		"depth":29.125,
+		"height":44.25,
+		"sqIn":6586,
+		"cuIn":22356,
+		"price":5885,
+		"priceClearCoat":null,
+		"order":12,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"1000_35",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRL1251",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL1015B",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1015B",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"L End Cab Power Drawer",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1098",
+				"description":"R End Cab Power Drawer",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1011A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRL1018",
+				"description":"L Docker Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1018",
+				"description":"R Docker Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL1012B",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST7001",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT7001A",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc23e"
+	},
+	{
+		"sku":"KRL756C",
+		"description":"Roll Cab",
+		"width":35.625,
+		"depth":24,
+		"height":39.875,
+		"sqIn":4677,
+		"cuIn":15506,
+		"price":4415,
+		"priceClearCoat":null,
+		"order":13,
+		"category":"roll-cab",
+		"series":"masters-series",
+		"imageDirectory":"700_35",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRL751",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRL711A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRL711A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST756",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT756",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT756A",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc23f"
+	},
+	{
+		"sku":"KCP2423",
+		"description":"Roll Cab",
+		"width":73,
+		"depth":39.25,
+		"height":39.25,
+		"sqIn":7971,
+		"cuIn":31453,
+		"price":7280,
+		"priceClearCoat":null,
+		"order":0,
+		"category":"roll-cab",
+		"series":"classic-series",
+		"imageDirectory":"73",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRA2415",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRA2472",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST2418",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRWL3635",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KRWL3635",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRA2406A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2406A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRA2403",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2403",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST2418",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT2418",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT2418",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc240"
+	},
+	{
+		"sku":"KRA2496",
+		"description":"Roll Cab",
+		"width":73,
+		"depth":24,
+		"height":39.25,
+		"sqIn":7635,
+		"cuIn":32801,
+		"price":6430,
+		"priceClearCoat":null,
+		"order":1,
+		"category":"roll-cab",
+		"series":"classic-series",
+		"imageDirectory":"73",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRA2415",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRA2472",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST2418",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRWL3635",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KRWL3635",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRA2406A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2406A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRA2403",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2403",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST2418",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT2418",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT2418",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc241"
+	},
+	{
+		"sku":"KRA2432",
+		"description":"Roll Cab",
+		"width":73,
+		"depth":24,
+		"height":39.25,
+		"sqIn":8370,
+		"cuIn":33116,
+		"price":6990,
+		"priceClearCoat":null,
+		"order":2,
+		"category":"roll-cab",
+		"series":"classic-series",
+		"imageDirectory":"73",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRA2415",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRA2472",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST2418",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRWL3635",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KRWL3635",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRA2406A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2406A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRA2403",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2403",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST2418",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT2418",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT2418",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc242"
+	},
+	{
+		"sku":"KRA2423",
+		"description":"Roll Cab",
+		"width":73,
+		"depth":24,
+		"height":39.25,
+		"sqIn":8604,
+		"cuIn":31237,
+		"price":6990,
+		"priceClearCoat":null,
+		"order":3,
+		"category":"roll-cab",
+		"series":"classic-series",
+		"imageDirectory":"73",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRA2415",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRA2472",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST2418",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRWL3635",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KRWL3635",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRA2406A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2406A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRA2403",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2403",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST2418",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT2418",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT2418",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc243"
+	},
+	{
+		"sku":"KCP2422",
+		"description":"Roll Cab",
+		"width":55,
+		"depth":24,
+		"height":39.25,
+		"sqIn":7971,
+		"cuIn":31453,
+		"price":5910,
+		"priceClearCoat":null,
+		"order":4,
+		"category":"roll-cab",
+		"series":"classic-series",
+		"imageDirectory":"55",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRA2410",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRA2454",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST2411",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRWL5435",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRA2406A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2406A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRA2403",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2403",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST2411",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT2411",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT2411",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc244"
+	},
+	{
+		"sku":"KRA2411",
+		"description":"Roll Cab",
+		"width":55,
+		"depth":24,
+		"height":39.25,
+		"sqIn":6362,
+		"cuIn":23631,
+		"price":5140,
+		"priceClearCoat":null,
+		"order":5,
+		"category":"roll-cab",
+		"series":"classic-series",
+		"imageDirectory":"55",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRA2410",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRA2454",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST2411",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRWL5435",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRA2406A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2406A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRA2403",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2403",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST2411",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT2411",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT2411",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc245"
+	},
+	{
+		"sku":"KRA2422",
+		"description":"Roll Cab",
+		"width":55,
+		"depth":24,
+		"height":39.25,
+		"sqIn":6300,
+		"cuIn":25000,
+		"price":5705,
+		"priceClearCoat":null,
+		"order":6,
+		"category":"roll-cab",
+		"series":"classic-series",
+		"imageDirectory":"55",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRA2410",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KRA2454",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KRSST2411",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KRWL5435",
+				"description":"Overhead",
+				"zone":"overhead"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRA2406A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2406A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRA2403",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2403",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST2411",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT2411",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT2411",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc246"
+	},
+	{
+		"sku":"KRA2407",
+		"description":"Roll Cab",
+		"width":36,
+		"depth":24,
+		"height":39.25,
+		"sqIn":4677,
+		"cuIn":15556,
+		"price":2995,
+		"priceClearCoat":null,
+		"order":7,
+		"category":"roll-cab",
+		"series":"classic-series",
+		"imageDirectory":"35",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KRA2405",
+				"description":"Top Chest",
+				"zone":"top"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KRA2406A",
+				"description":"L End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2406A",
+				"description":"R End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KRA2403",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KRA2403",
+				"description":"R Locker",
+				"zone":"right"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KRSST2407",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRBLT2407",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KRWT2407",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc247"
+	},
+	{
+		"sku":"KEXP725C",
+		"description":"Roll Cab",
+		"width":144,
+		"depth":30,
+		"height":46.875,
+		"sqIn":25319,
+		"cuIn":91690,
+		"price":28235,
+		"priceClearCoat":30825,
+		"order":0,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"144",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN843A",
+				"description":"L Top Chest Triple",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KECN842A",
+				"description":"L Top Chest Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KECN602A",
+				"description":"R Top Chest Dual",
+				"zone":"topRight"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN843A",
+				"description":"L Drawer Section Triple",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KESN842A",
+				"description":"L Drawer Section Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KESN602A",
+				"description":"R Drawer Section Dual",
+				"zone":"topRight"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN840A",
+				"description":"L Workcenter",
+				"zone":"topLeft",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTopLeft"
+				}
+			},
+			{
+				"sku":"KEWN600A",
+				"description":"R Workcenter",
+				"zone":"topRight",
+				"workTop":{
+					"sku":"KWSN3060BST",
+					"zone":"workTopRight"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft2"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"L Mid Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Mid Overhead",
+				"zone":"overheadRight"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight2"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3012AST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084BST",
+				"description":"L Stainless Steel",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060BST",
+				"description":"R Stainless Steel",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"L Stainless Steel PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060BST",
+				"description":"R Stainless Steel PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"L Stainless Steel Power House",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"L Bedliner",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060ABL",
+				"description":"R Bedliner",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"L Bedliner PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060ABL",
+				"description":"R Bedliner PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSN3012AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"L Wood",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060AWT",
+				"description":"R Wood",
+				"zone":"workTopRight"
+			}
+		],
+		"id":"5a21390734f1f9e153acc248"
+	},
+	{
+		"sku":"KEXR725B",
+		"description":"Roll Cab",
+		"width":144,
+		"depth":30,
+		"height":46.875,
+		"sqIn":25319,
+		"cuIn":91690,
+		"price":29585,
+		"priceClearCoat":32175,
+		"order":1,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"144",
+		"hasEckoUnlock":true,
+		"topChests":[
+			{
+				"sku":"KECN843A",
+				"description":"L Top Chest Triple",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KECN842A",
+				"description":"L Top Chest Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KECN602A",
+				"description":"R Top Chest Dual",
+				"zone":"topRight"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESE843A",
+				"description":"L Drawer Section Triple",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KESE842A",
+				"description":"L Drawer Section Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KESE602A",
+				"description":"R Drawer Section Dual",
+				"zone":"topRight"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWE840A",
+				"description":"L Workcenter",
+				"zone":"topLeft",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTopLeft"
+				}
+			},
+			{
+				"sku":"KEWE600A",
+				"description":"R Workcenter",
+				"zone":"topRight",
+				"workTop":{
+					"sku":"KWSN3060BST",
+					"zone":"workTopRight"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft2"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"L Mid Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Mid Overhead",
+				"zone":"overheadRight"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight2"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3012AST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084BST",
+				"description":"L Stainless Steel",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060BST",
+				"description":"R Stainless Steel",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"L Stainless Steel PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060BST",
+				"description":"R Stainless Steel PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"L Stainless Steel Power House",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"L Bedliner",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060ABL",
+				"description":"R Bedliner",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"L Bedliner PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060ABL",
+				"description":"R Bedliner PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSN3012AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"L Wood",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060AWT",
+				"description":"R Wood",
+				"zone":"workTopRight"
+			}
+		],
+		"id":"5a21390734f1f9e153acc249"
+	},
+	{
+		"sku":"KEXN725C",
+		"description":"Roll Cab",
+		"width":144,
+		"depth":30,
+		"height":46.875,
+		"sqIn":25340,
+		"cuIn":91627,
+		"price":28235,
+		"priceClearCoat":30825,
+		"order":2,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"144",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN843A",
+				"description":"L Top Chest Triple",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KECN842A",
+				"description":"L Top Chest Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KECN602A",
+				"description":"R Top Chest Dual",
+				"zone":"topRight"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN843A",
+				"description":"L Drawer Section Triple",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KESN842A",
+				"description":"L Drawer Section Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KESN602A",
+				"description":"R Drawer Section Dual",
+				"zone":"topRight"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN840A",
+				"description":"L Workcenter",
+				"zone":"topLeft",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTopLeft"
+				}
+			},
+			{
+				"sku":"KEWN600A",
+				"description":"R Workcenter",
+				"zone":"topRight",
+				"workTop":{
+					"sku":"KWSN3060BST",
+					"zone":"workTopRight"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft2"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"L Mid Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Mid Overhead",
+				"zone":"overheadRight"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight2"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3012AST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084BST",
+				"description":"L Stainless Steel",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060BST",
+				"description":"R Stainless Steel",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"L Stainless Steel PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060BST",
+				"description":"R Stainless Steel PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"L Stainless Steel Power House",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"L Bedliner",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060ABL",
+				"description":"R Bedliner",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"L Bedliner PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060ABL",
+				"description":"R Bedliner PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSN3012AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"L Wood",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060AWT",
+				"description":"R Wood",
+				"zone":"workTopRight"
+			}
+		],
+		"id":"5a21390734f1f9e153acc24a"
+	},
+	{
+		"sku":"KEXE725B",
+		"description":"Roll Cab",
+		"width":144,
+		"depth":30,
+		"height":46.875,
+		"sqIn":25340,
+		"cuIn":91627,
+		"price":29585,
+		"priceClearCoat":32175,
+		"order":3,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"144",
+		"hasEckoUnlock":true,
+		"topChests":[
+			{
+				"sku":"KECN843A",
+				"description":"L Top Chest Triple",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KECN842A",
+				"description":"L Top Chest Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KECN602A",
+				"description":"R Top Chest Dual",
+				"zone":"topRight"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESE843A",
+				"description":"L Drawer Section Triple",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KESE842A",
+				"description":"L Drawer Section Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KESE602A",
+				"description":"R Drawer Section Dual",
+				"zone":"topRight"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWE840A",
+				"description":"L Workcenter",
+				"zone":"topLeft",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTopLeft"
+				}
+			},
+			{
+				"sku":"KEWE600A",
+				"description":"R Workcenter",
+				"zone":"topRight",
+				"workTop":{
+					"sku":"KWSN3060BST",
+					"zone":"workTopRight"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft2"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"L Mid Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Mid Overhead",
+				"zone":"overheadRight"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight2"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3012AST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084BST",
+				"description":"L Stainless Steel",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060BST",
+				"description":"R Stainless Steel",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"L Stainless Steel PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060BST",
+				"description":"R Stainless Steel PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"L Stainless Steel Power House",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"L Bedliner",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060ABL",
+				"description":"R Bedliner",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"L Bedliner PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060ABL",
+				"description":"R Bedliner PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSN3012AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"L Wood",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060AWT",
+				"description":"R Wood",
+				"zone":"workTopRight"
+			}
+		],
+		"id":"5a21390734f1f9e153acc24b"
+	},
+	{
+		"sku":"KEXN603B",
+		"description":"Roll Cab",
+		"width":120,
+		"depth":30,
+		"height":46.875,
+		"sqIn":22690,
+		"cuIn":77672,
+		"price":23575,
+		"priceClearCoat":25790,
+		"order":4,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"120",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN602A",
+				"description":"L Top Chest Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KECN602A",
+				"description":"R Top Chest Dual",
+				"zone":"topRight"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN602A",
+				"description":"L Drawer Section Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KESN602A",
+				"description":"R Drawer Section Dual",
+				"zone":"topRight"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN600A",
+				"description":"L Workcenter",
+				"zone":"topLeft",
+				"workTop":{
+					"sku":"KWSN3060BST",
+					"zone":"workTopLeft"
+				}
+			},
+			{
+				"sku":"KEWN600A",
+				"description":"R Workcenter",
+				"zone":"topRight",
+				"workTop":{
+					"sku":"KWSN3060BST",
+					"zone":"workTopRight"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft2"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"L Mid Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Mid Overhead",
+				"zone":"overheadRight"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight2"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3010AST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3060BST",
+				"description":"L Stainless Steel",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060BST",
+				"description":"R Stainless Steel",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3060BST",
+				"description":"L Stainless Steel PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060BST",
+				"description":"R Stainless Steel PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSN3060ABL",
+				"description":"L Bedliner",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060ABL",
+				"description":"R Bedliner",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3060ABL",
+				"description":"L Bedliner PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060ABL",
+				"description":"R Bedliner PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSN3010AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3060AWT",
+				"description":"L Wood",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060AWT",
+				"description":"R Wood",
+				"zone":"workTopRight"
+			}
+		],
+		"id":"5a21390734f1f9e153acc24c"
+	},
+	{
+		"sku":"KEXE603B",
+		"description":"Roll Cab",
+		"width":120,
+		"depth":30,
+		"height":46.875,
+		"sqIn":22690,
+		"cuIn":77672,
+		"price":24930,
+		"priceClearCoat":27135,
+		"order":5,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"120",
+		"hasEckoUnlock":true,
+		"topChests":[
+			{
+				"sku":"KECN602A",
+				"description":"L Top Chest Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KECN602A",
+				"description":"R Top Chest Dual",
+				"zone":"topRight"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESE602A",
+				"description":"L Drawer Section Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KESE602A",
+				"description":"R Drawer Section Dual",
+				"zone":"topRight"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWE600A",
+				"description":"L Workcenter",
+				"zone":"topLeft",
+				"workTop":{
+					"sku":"KWSN3060BST",
+					"zone":"workTopLeft"
+				}
+			},
+			{
+				"sku":"KEWE600A",
+				"description":"R Workcenter",
+				"zone":"topRight",
+				"workTop":{
+					"sku":"KWSN3060BST",
+					"zone":"workTopRight"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft2"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"L Mid Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Mid Overhead",
+				"zone":"overheadRight"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight2"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3010AST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3060BST",
+				"description":"L Stainless Steel",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060BST",
+				"description":"R Stainless Steel",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3060BST",
+				"description":"L Stainless Steel PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060BST",
+				"description":"R Stainless Steel PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSN3060ABL",
+				"description":"L Bedliner",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060ABL",
+				"description":"R Bedliner",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3060ABL",
+				"description":"L Bedliner PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060ABL",
+				"description":"R Bedliner PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSN3010AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3060AWT",
+				"description":"L Wood",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060AWT",
+				"description":"R Wood",
+				"zone":"workTopRight"
+			}
+		],
+		"id":"5a21390734f1f9e153acc24d"
+	},
+	{
+		"sku":"KERP843C",
+		"description":"Roll Cab",
+		"width":84,
+		"depth":30,
+		"height":46.875,
+		"sqIn":13876,
+		"cuIn":53407,
+		"price":16300,
+		"priceClearCoat":17775,
+		"order":6,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"84",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN842A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KECN843A",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN842A",
+				"description":"Drawer Section Triple",
+				"zone":"top"
+			},
+			{
+				"sku":"KESN843A",
+				"description":"Drawer Section Dual",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN840A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3084BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"Stainless Steel Power House",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc24e"
+	},
+	{
+		"sku":"KERP842C",
+		"description":"Roll Cab",
+		"width":84,
+		"depth":30,
+		"height":46.875,
+		"sqIn":13541,
+		"cuIn":55670,
+		"price":16300,
+		"priceClearCoat":17775,
+		"order":7,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"84",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN842A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KECN843A",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN842A",
+				"description":"Drawer Section Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KESN843A",
+				"description":"Drawer Section Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN840A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3084BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"Stainless Steel Power House",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc24f"
+	},
+	{
+		"sku":"KERN843C",
+		"description":"Roll Cab",
+		"width":84,
+		"depth":30,
+		"height":46.875,
+		"sqIn":13898,
+		"cuIn":53316,
+		"price":16300,
+		"priceClearCoat":17775,
+		"order":8,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"84",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN842A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KECN843A",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN842A",
+				"description":"Drawer Section Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KESN843A",
+				"description":"Drawer Section Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN840A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3084BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"Stainless Steel Power House",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc250"
+	},
+	{
+		"sku":"KERN842C",
+		"description":"Roll Cab",
+		"width":84,
+		"depth":30,
+		"height":46.875,
+		"sqIn":13769,
+		"cuIn":55550,
+		"price":16300,
+		"priceClearCoat":17775,
+		"order":9,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"84",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN842A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KECN843A",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN842A",
+				"description":"Drawer Section Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KESN843A",
+				"description":"Drawer Section Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN840A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3084BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"Stainless Steel Power House",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc251"
+	},
+	{
+		"sku":"KERR842B",
+		"description":"Roll Cab",
+		"width":84,
+		"depth":30,
+		"height":46.875,
+		"sqIn":13541,
+		"cuIn":55670,
+		"price":16990,
+		"priceClearCoat":18470,
+		"order":10,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"84",
+		"hasEckoUnlock":true,
+		"topChests":[
+			{
+				"sku":"KECN842A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KECN843A",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESE842A",
+				"description":"Drawer Section Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KESE843A",
+				"description":"Drawer Section Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWE840A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3084BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"Stainless Steel Power House",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc252"
+	},
+	{
+		"sku":"KERR843B",
+		"description":"Roll Cab",
+		"width":84,
+		"depth":30,
+		"height":46.875,
+		"sqIn":13876,
+		"cuIn":53407,
+		"price":16990,
+		"priceClearCoat":18470,
+		"order":11,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"84",
+		"hasEckoUnlock":true,
+		"topChests":[
+			{
+				"sku":"KECN842A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KECN843A",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESE842A",
+				"description":"Drawer Section Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KESE843A",
+				"description":"Drawer Section Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWE840A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3084BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"Stainless Steel Power House",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc253"
+	},
+	{
+		"sku":"KERE842B",
+		"description":"Roll Cab",
+		"width":84,
+		"depth":30,
+		"height":46.875,
+		"sqIn":13769,
+		"cuIn":55550,
+		"price":16990,
+		"priceClearCoat":18470,
+		"order":12,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"84",
+		"hasEckoUnlock":true,
+		"topChests":[
+			{
+				"sku":"KECN842A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KECN843A",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESE842A",
+				"description":"Drawer Section Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KESE843A",
+				"description":"Drawer Section Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWE840A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3084BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"Stainless Steel Power House",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc254"
+	},
+	{
+		"sku":"KERE843B",
+		"description":"Roll Cab",
+		"width":84,
+		"depth":30,
+		"height":46.875,
+		"sqIn":13898,
+		"cuIn":53316,
+		"price":16990,
+		"priceClearCoat":18470,
+		"order":13,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"84",
+		"hasEckoUnlock":true,
+		"topChests":[
+			{
+				"sku":"KECN842A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KECN843A",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESE842A",
+				"description":"Drawer Section Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KESE843A",
+				"description":"Drawer Section Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWE840A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3084BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"Stainless Steel Power House",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc255"
+	},
+	{
+		"sku":"KETP843B",
+		"description":"Roll Cab",
+		"width":84,
+		"depth":30,
+		"height":46.875,
+		"sqIn":11357,
+		"cuIn":54630,
+		"price":16300,
+		"priceClearCoat":17775,
+		"order":14,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"84",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN842A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KECN843A",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN842A",
+				"description":"Drawer Section Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KESN843A",
+				"description":"Drawer Section Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN840A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3084BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"Stainless Steel Power House",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc256"
+	},
+	{
+		"sku":"KETN843B",
+		"description":"Roll Cab",
+		"width":84,
+		"depth":30,
+		"height":46.875,
+		"sqIn":12733,
+		"cuIn":54378,
+		"price":16300,
+		"priceClearCoat":17775,
+		"order":15,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"84",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN842A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KECN843A",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN842A",
+				"description":"Drawer Section Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KESN843A",
+				"description":"Drawer Section Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN840A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3084BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"Stainless Steel Power House",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc257"
+	},
+	{
+		"sku":"KETE843B",
+		"description":"Roll Cab",
+		"width":84,
+		"depth":30,
+		"height":46.875,
+		"sqIn":12733,
+		"cuIn":54378,
+		"price":16990,
+		"priceClearCoat":18470,
+		"order":16,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"84",
+		"hasEckoUnlock":true,
+		"topChests":[
+			{
+				"sku":"KECN842A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KECN843A",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESE842A",
+				"description":"Drawer Section Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KESE843A",
+				"description":"Drawer Section Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWE840A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3084BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"Stainless Steel Power House",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc258"
+	},
+	{
+		"sku":"KETR843B",
+		"description":"Roll Cab",
+		"width":84,
+		"depth":30,
+		"height":46.875,
+		"sqIn":11357,
+		"cuIn":54630,
+		"price":16990,
+		"priceClearCoat":18470,
+		"order":17,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"84",
+		"hasEckoUnlock":true,
+		"topChests":[
+			{
+				"sku":"KECN842A",
+				"description":"Top Chest Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KECN843A",
+				"description":"Top Chest Triple",
+				"zone":"top"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESE842A",
+				"description":"Drawer Section Dual",
+				"zone":"top"
+			},
+			{
+				"sku":"KESE843A",
+				"description":"Drawer Section Triple",
+				"zone":"top"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWE840A",
+				"description":"Workcenter",
+				"zone":"top",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTop"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"Mid Overhead",
+				"zone":"overhead"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELE301BL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELE301BR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELR301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELR301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3084BST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"Stainless Steel PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"Stainless Steel Power House",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"Bedliner",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"Bedliner PowerTop",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			}
+		],
+		"id":"5a21390734f1f9e153acc259"
+	}
 ]
