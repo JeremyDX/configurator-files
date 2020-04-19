@@ -48,6 +48,23 @@
 		"series":"classic-series",
 		"imageDirectory":"73",
 		"hasEckoUnlock":false,
-		"id":"5a21390734f1f9e153acc241"
+		"id":"5a21390734f1f9e153acc243"
+	},
+	{
+		"sku":"KRA2432",
+		"description":"Roll Cab",
+		"width":73,
+		"depth":24,
+		"height":39.25,
+		"sqIn":8370,
+		"cuIn":33116,
+		"price":6990,
+		"priceClearCoat":null,
+		"order":2,
+		"category":"roll-cab",
+		"series":"classic-series",
+		"imageDirectory":"73",
+		"hasEckoUnlock":false,
+		"id":"5a21390734f1f9e153acc242"
 	}
 ]
