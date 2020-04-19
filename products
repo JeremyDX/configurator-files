@@ -1,3 +1,4 @@
+[
   {
     "sku":"KRA2496",
     "description":"505Roll Cab",
@@ -85,4 +86,92 @@
       }
     ],
     "id":"5a21390734f1f9e153acc241"
+  }  {
+    "sku":"KRA2496",
+    "description":"505Roll Cab",
+    "width":73,
+    "depth":24,
+    "height":39.25,
+    "sqIn":7635,
+    "cuIn":32801,
+    "price":6430,
+    "priceClearCoat":null,
+    "order":1,
+    "category":"roll-cab",
+    "series":"classic-series",
+    "imageDirectory":"73",
+    "hasEckoUnlock":false,
+    "topChests":[
+      {
+        "sku":"KRA2415",
+        "description":"506Top Chest",
+        "zone":"top"
+      }
+    ],
+    "workcenters":[
+      {
+        "sku":"KRA2472",
+        "description":"507Workcenter",
+        "zone":"top",
+        "workTop":{
+          "sku":"KRSST2418",
+          "zone":"workTop"
+        }
+      }
+    ],
+    "overheadCabinets":[
+      {
+        "sku":"KRWL3635",
+        "description":"508L Overhead",
+        "zone":"overheadLeft"
+      },
+      {
+        "sku":"KRWL3635",
+        "description":"509R Overhead",
+        "zone":"overheadRight"
+      }
+    ],
+    "endCabinets":[
+      {
+        "sku":"KRA2406A",
+        "description":"510L End Cabinet",
+        "zone":"left"
+      },
+      {
+        "sku":"KRA2406A",
+        "description":"511R End Cabinet",
+        "zone":"right"
+      }
+    ],
+    "lockers":[
+      {
+        "sku":"KRA2403",
+        "description":"512L Locker",
+        "zone":"left"
+      },
+      {
+        "sku":"KRA2403",
+        "description":"513R Locker",
+        "zone":"right"
+      }
+    ],
+    "workTops":[
+      {
+        "sku":"KRSST2418",
+        "description":"514Stainless Steel",
+        "zone":"workTop"
+      },
+      {
+        "sku":"KRBLT2418",
+        "description":"515Bedliner",
+        "zone":"workTop"
+      },
+      {
+        "sku":"KRWT2418",
+        "description":"516Wood",
+        "zone":"workTop"
+      }
+    ],
+    "id":"5a21390734f1f9e153acc241"
   }
+]
