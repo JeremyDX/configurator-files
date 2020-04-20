@@ -14,7 +14,23 @@
     "series":"epiq-series",
     "imageDirectory":"60",
     "hasEckoUnlock":false,
-    "topChests":[],
+    "topChests":[
+      {
+        "sku":"KECN843A",
+        "description":"L Top Chest Triple",
+        "zone":"topLeft"
+      },
+      {
+        "sku":"KECN842A",
+        "description":"L Top Chest Dual",
+        "zone":"topLeft"
+      },
+      {
+        "sku":"KECN602A",
+        "description":"R Top Chest Dual",
+        "zone":"topRight"
+      }
+    ]
     "drawerSections":[],
     "workcenters":[],
     "endCabinets":[],
