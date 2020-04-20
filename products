@@ -26,7 +26,7 @@
 		"cuIn":32801,
 		"price":6430,
 		"priceClearCoat":null,
-		"order":1,
+		"order":2,
 		"category":"roll-cab",
 		"series":"classic-series",
 		"imageDirectory":"73",
@@ -43,7 +43,7 @@
 		"cuIn":32801,
 		"price":6430,
 		"priceClearCoat":null,
-		"order":1,
+		"order":0,
 		"category":"roll-cab",
 		"series":"classic-series",
 		"imageDirectory":"73",
@@ -60,11 +60,225 @@
 		"cuIn":33116,
 		"price":6990,
 		"priceClearCoat":null,
-		"order":2,
+		"order":1,
 		"category":"roll-cab",
 		"series":"classic-series",
 		"imageDirectory":"73",
 		"hasEckoUnlock":false,
 		"id":"5a21390734f1f9e153acc242"
+	},
+	{
+		"sku":"KEXP725C",
+		"description":"Roll Cab",
+		"width":144,
+		"depth":30,
+		"height":46.875,
+		"sqIn":25319,
+		"cuIn":91690,
+		"price":28235,
+		"priceClearCoat":30825,
+		"order":0,
+		"category":"roll-cab",
+		"series":"epiq-series",
+		"imageDirectory":"144",
+		"hasEckoUnlock":false,
+		"topChests":[
+			{
+				"sku":"KECN843A",
+				"description":"L Top Chest Triple",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KECN842A",
+				"description":"L Top Chest Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KECN602A",
+				"description":"R Top Chest Dual",
+				"zone":"topRight"
+			}
+		],
+		"drawerSections":[
+			{
+				"sku":"KESN843A",
+				"description":"L Drawer Section Triple",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KESN842A",
+				"description":"L Drawer Section Dual",
+				"zone":"topLeft"
+			},
+			{
+				"sku":"KESN602A",
+				"description":"R Drawer Section Dual",
+				"zone":"topRight"
+			}
+		],
+		"workcenters":[
+			{
+				"sku":"KEWN840A",
+				"description":"L Workcenter",
+				"zone":"topLeft",
+				"workTop":{
+					"sku":"KWSN3084BST",
+					"zone":"workTopLeft"
+				}
+			},
+			{
+				"sku":"KEWN600A",
+				"description":"R Workcenter",
+				"zone":"topRight",
+				"workTop":{
+					"sku":"KWSN3060BST",
+					"zone":"workTopRight"
+				}
+			}
+		],
+		"overheadCabinets":[
+			{
+				"sku":"KEHN600B",
+				"description":"L Overhead",
+				"zone":"overheadLeft2"
+			},
+			{
+				"sku":"KEHN840B",
+				"description":"L Mid Overhead",
+				"zone":"overheadLeft"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Mid Overhead",
+				"zone":"overheadRight"
+			},
+			{
+				"sku":"KEHN600B",
+				"description":"R Overhead",
+				"zone":"overheadRight2"
+			}
+		],
+		"endCabinets":[
+			{
+				"sku":"KEBN301BL",
+				"description":"L Bulk End Cabinet",
+				"zone":"left"
+			},
+			{
+				"sku":"KEBN301BR",
+				"description":"R Bulk End Cabinet",
+				"zone":"right"
+			}
+		],
+		"lockers":[
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELN301CL",
+				"description":"L Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELN301CR",
+				"description":"R Locker (x2)",
+				"zone":"right2"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker",
+				"zone":"left"
+			},
+			{
+				"sku":"KELP301BL",
+				"description":"L Power Locker (x2)",
+				"zone":"left2"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker",
+				"zone":"right"
+			},
+			{
+				"sku":"KELP301BR",
+				"description":"R Power Locker (x2)",
+				"zone":"right2"
+			}
+		],
+		"workTops":[
+			{
+				"sku":"KWSN3012AST",
+				"description":"Stainless Steel",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084BST",
+				"description":"L Stainless Steel",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060BST",
+				"description":"R Stainless Steel",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3084BST",
+				"description":"L Stainless Steel PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060BST",
+				"description":"R Stainless Steel PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSH3084BST",
+				"description":"L Stainless Steel Power House",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3084ABL",
+				"description":"L Bedliner",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060ABL",
+				"description":"R Bedliner",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSP3084ABL",
+				"description":"L Bedliner PowerTop",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSP3060ABL",
+				"description":"R Bedliner PowerTop",
+				"zone":"workTopRight"
+			},
+			{
+				"sku":"KWSN3012AWT",
+				"description":"Wood",
+				"zone":"workTop"
+			},
+			{
+				"sku":"KWSN3084AWT",
+				"description":"L Wood",
+				"zone":"workTopLeft"
+			},
+			{
+				"sku":"KWSN3060AWT",
+				"description":"R Wood",
+				"zone":"workTopRight"
+			}
+		],
+		"id":"5a21390734f1f9e153acc248"
 	}
 ]
