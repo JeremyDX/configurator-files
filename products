@@ -1,5 +1,28 @@
 [
   {
+    "sku":"KETN602C0",
+    "description":"Roll Cab",
+    "width":0,
+    "depth":0,
+    "height":0,
+    "sqIn":0,
+    "cuIn":0,
+    "price":0,
+    "priceClearCoat":0,
+    "order":0,
+    "category":"roll-cab",
+    "series":"epiq-series",
+    "imageDirectory":"144",
+    "hasEckoUnlock":false,
+    "topChests":[],
+    "drawerSections":[],
+    "workcenters":[],
+    "endCabinets":[],
+    "lockers":[],
+    "workTops":[],
+    "id":"5a21390734f1f9e153accFFF"
+  },
+  {
     "sku":"KTP1022A",
     "description":"TUV",
     "width":106,
