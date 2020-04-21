@@ -38,6 +38,44 @@
     "id":"5a21390734f1f9e153accFFF"
   },
   {
+    "sku":"TEST_NAME",
+    "description":"Roll Cab",
+    "width":60,
+    "depth":30,
+    "height":46.875,
+    "sqIn":10650,
+    "cuIn":38000,
+    "price":11745,
+    "priceClearCoat":12855,
+    "order":26,
+    "category":"roll-cab",
+    "series":"epiq-series",
+    "imageDirectory":"60",
+    "hasEckoUnlock":false,
+    "topChests":[
+
+    ],
+    "drawerSections":[
+
+    ],
+    "workcenters":[
+
+    ],
+    "overheadCabinets":[
+
+    ],
+    "endCabinets":[
+
+    ],
+    "lockers":[
+      
+    ],
+    "workTops":[
+      
+    ],
+    "id":"5a21390734f1f9e153accFFE"
+  },
+  {
     "sku":"KTP1022A",
     "description":"TUV",
     "width":106,
