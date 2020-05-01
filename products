@@ -14,13 +14,7 @@
       "series":"epiq-series",
       "imageDirectory":"68",
       "hasEckoUnlock":false,
-      "topChests":[
-         {
-            "sku":"KECN682A",
-            "description":"Top Chest",
-            "zone":"top"
-         }
-      ],
+      "topChests": [],
       "drawerSections":[
          {
             "sku":"KESN682A",
@@ -30,10 +24,11 @@
       ],
       "workcenters":[
          {
-            "sku":"KEWN680A",
+            "sku":"KEWN680C",
             "description":"Workcenter",
             "zone":"top",
-            "workTop":{
+            "workTop": 
+            {
                "sku":"KWSN3068BST",
                "zone":"workTop"
             }
@@ -54,6 +49,21 @@
             "sku":"KEHN600B",
             "description":"R Overhead",
             "zone":"overheadRight"
+         },
+         {
+            "sku":"KEHN300A",
+            "description":"R Overhead",
+            "zone":"overheadLeft"
+         },
+         {
+            "sku":"KEHN300A",
+            "description":"L Overhead",
+            "zone":"overheadRight"
+         },
+         {
+            "sku":"KEHN360A",
+            "description":"Mid Overhead",
+            "zone":"overhead"
          }
       ],
       "endCabinets":[
@@ -135,6 +145,13 @@
             "sku":"KWSN3068AWT",
             "description":"Wood",
             "zone":"workTop"
+         }
+      ],
+      "endCabinetsDrawerSection":[
+         {
+            "sku":"KEHN600B",
+            "description":"L Overhead",
+            "zone":"overheadLeft"
          }
       ],
     "id":"5a21390734f1f9e153accFFE"
