@@ -25,7 +25,7 @@
       ],
       "workcenters":[
          {
-            "sku":"KEWN680C",
+            "sku":"KEWN680A",
             "description":"Workcenter",
             "zone":"top",
             "workTop":{
@@ -153,18 +153,18 @@
       ],
       "drawerSections":[
          {
-            "sku":"KESN602A",
+            "sku":"KESN682A",
             "description":"Drawer Section",
             "zone":"top"
          }
       ],
       "workcenters":[
          {
-            "sku":"KEWN600A",
+            "sku":"KEWN680A",
             "description":"Workcenter",
             "zone":"top",
             "workTop":{
-               "sku":"KWSN3060BST",
+               "sku":"KWSN3068BST",
                "zone":"workTop"
             }
          }
@@ -176,7 +176,7 @@
             "zone":"overheadLeft"
          },
          {
-            "sku":"KEHN600B",
+            "sku":"KEHN680C",
             "description":"Mid Overhead",
             "zone":"overhead"
          },
@@ -242,27 +242,27 @@
       ],
       "workTops":[
          {
-            "sku":"KWSN3060BST",
+            "sku":"KWSN3068BST",
             "description":"Stainless Steel",
             "zone":"workTop"
          },
          {
-            "sku":"KWSP3060BST",
+            "sku":"KWSP3068BST",
             "description":"Stainless Steel PowerTop",
             "zone":"workTop"
          },
          {
-            "sku":"KWSN3060ABL",
+            "sku":"KWSN3068ABL",
             "description":"Bedliner",
             "zone":"workTop"
          },
          {
-            "sku":"KWSP3060ABL",
+            "sku":"KWSP3068ABL",
             "description":"Bedliner PowerTop",
             "zone":"workTop"
          },
          {
-            "sku":"KWSN3060AWT",
+            "sku":"KWSN3068AWT",
             "description":"Wood",
             "zone":"workTop"
          }
