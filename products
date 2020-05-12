@@ -15,11 +15,6 @@
       "imageDirectory":"68",
       "hasEckoUnlock":false,
       "topChests":[
-         {
-            "sku":"KECN682A",
-            "description":"Top Chest",
-            "zone":"top"
-         }
       ],
       "drawerSections":[
          {
@@ -30,7 +25,7 @@
       ],
       "workcenters":[
          {
-            "sku":"KEWN680A",
+            "sku":"KEWN680C",
             "description":"Workcenter",
             "zone":"top",
             "workTop":{
@@ -155,11 +150,6 @@
       "imageDirectory":"60",
       "hasEckoUnlock":false,
       "topChests":[
-         {
-            "sku":"KECN602A",
-            "description":"Top Chest",
-            "zone":"top"
-         }
       ],
       "drawerSections":[
          {
